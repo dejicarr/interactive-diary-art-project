@@ -11,7 +11,7 @@ On September 13, 2017, I picked up a pen and created the first page. At first, i
 There was an alchemy in this process. The content I was documenting - struggles with digital addiction, a book that felt impossible, the gap between dreams and reality - somehow became beautiful when translated into visual form. My mind began to frame experience differently. Looking back through pages, I could see that life wasn't nearly as awful as I was painting it in my head and emotions. The diary was transforming pain into pathway.
 
 
-![[2017-10-05 1.jpg]]
+![](source-images/2017-10-05.jpg)
 
 _[This is an example of an early diary page:  the bottom left section features an image of me on a desert island in a jail cell with clouds above. Directly above one of the clouds is a stop symbol, an image of a TV, and an image of a bed for late nights. This is what's blocking the connection upwards which has an arrow with a key inside pointing towards the Sun which has images inside of the traffic symbol for work with a plus symbol next to a circle of little circles which represents community connection and coming together and the 💸]
 
@@ -25,7 +25,7 @@ Initially, I colored everything in, but coloring took enormous amounts of time. 
 
 The simplicity of black and white brought clarity to the visual complexity of the work. It made the work more legible, more powerful. With just these pens, I had everything I needed - and my individual style was born.
 
-![[2018-02-16.png]]
+![](source-images/2018-02-16.png)
 
 
 ## Visual Prayer Innovation
@@ -38,7 +38,7 @@ And it worked! (For a while 😉)
 
 I realized each page could hold an intention, transforming drawing into a form of prayer. It wasn't "art" yet. It was **functional ritual**.
 
-![[2018-04-27.jpg]]
+![](source-images/2018-04-27.jpg)
 
 ## External Validation
 
@@ -52,7 +52,7 @@ It was the first time anyone had acknowledged me as an artist in this way. Peopl
 
 It was the first moment I realized that what I was doing might have a unique artistic identity, not just personal value.
 
-![[2018-03-16.jpg]]
+![](source-images/2018-03-16.jpg)
 
 
 ## The System Emerges
@@ -68,7 +68,7 @@ For instance In the above two pieces I began to also use the pieces for task man
 Without realizing it, I was beginning to discover something far more powerful than I had ever set out to find.
 
 
-![[2018-10-01.jpg]]
+![](source-images/2018-10-01.jpg)
 
 
 ## The Cosmic Contract
@@ -83,7 +83,7 @@ From this point, the style of my diary becomes cohesive, with a distinctive chan
 
 These star beings would later appear on Orion's Belt in almost all of the large-scale exhibition pieces, watching over the artistic evolution like cosmic witnesses confirming I was honoring the original agreement.
 
-![[2018-8-22.jpg]]
+![](source-images/2018-8-22.jpg)
 ## The Diary's First Birthday
 
 By September 2018, exactly one year after starting the diary, something remarkable happened. I was facilitating a UNICEF conference in Geneva - long hours, early starts, late finishes. One morning I realized it was the anniversary of having started my diary and reflected on how much it had helped me recover from my depression.
@@ -93,7 +93,7 @@ Instinctively, I wrote a long Facebook post explaining the journey of my diary a
 It was the first glimpse that this work might resonate far beyond my personal recovery.
 
 
-![[2018-09-18a.jpg]]
+![](source-images/2018-09-18a.jpg)
 
 
 ## "Everything is Perfect"
@@ -108,7 +108,7 @@ Vision Quests have a structure where someone supports you during your process - 
 
 This ceremony piece marked a turning point - not just in my recovery, but in my willingness to face the deepest challenges ahead.
 
-![[2018-09-06.jpg]]
+![](source-images/2018-09-06.jpg)
 
 
 *Next: Act II—A journey that would take me from my flat to the Colombian jungle, and into my first Vision Quest.*
@@ -129,8 +129,8 @@ The preparation involved making prayer ties - 405 small cotton squares (101 for 
 When it came time to lay them around my quest spot, disaster struck. I'd put too much space between each prayer, hadn't fastened them tightly enough. A whole bunch fell off. It took three of us 45 minutes just to get them around once. After so much preparation, I broke into tears. One of the leaders reassured me: "This happens - it just means you have some untying to do."
 
 
-![[making-prayer-ties.jpeg]]
-![[prayer-ties.jpeg]]
+![](source-images/making-prayer-ties.jpeg)
+![](source-images/prayer-ties.jpeg)
 
 
 
@@ -144,7 +144,7 @@ The forest had a language. So did my soul. In that stillness, in the absence of 
 
 When they came to collect me, I was weak but transformed. Just before entering the final sweat lodge, we were given tobacco to offer prayers to the fire. I put my prayers deep, aimed them at the four directions, then raised my fist to the sky - and directly above me, an eagle soared. It was a divine message that spirit was with me. I burst into uncontrollable tears, feeling incredible relief and new energy entering.
 
-![[2019-02-17 .jpeg]]
+![](source-images/2019-02-17.jpeg)
 
 
 ## Shadow Integration
@@ -157,7 +157,7 @@ Without thinking, I replied: "I love you, you cunt." 😆
 
 In that moment, two aspects of myself - light and shadow - came back together. The split I'd been living with since the depression began to dissolve. I felt, for the first time in months, like my old flowing self was returning.
 
-![[2019-02-23.jpeg]]
+![](source-images/2019-02-23.jpeg)
 
 
 ## Scale Expansion
@@ -168,7 +168,7 @@ From this point, I was permanently catching up with my diary. Previously I'd bee
 
 Little did I know it would be nothing compared to how far I'd lag behind later! But the quality shifted dramatically - they started to look really impressive.
 
-![[2019-03-11.jpeg]]
+![](source-images/2019-03-11.jpeg)
 
 
 ## Generational Vision
@@ -181,7 +181,7 @@ But the real innovation was in the background. I mapped my entire life vision al
 
 The diary was becoming a systematic tool for generational legacy planning.
 
-![[2019-05-12.jpeg]]
+![](source-images/2019-05-12.jpeg)
 
 
 ## The Marathon Commitment
@@ -192,7 +192,7 @@ Yet I kept falling back to the context of the Vision Quest. Something about havi
 
 That night I went to bed and asked my superconscious mind to tell me what the theme for the next page should be in my dreams.
 
-![[2019-04-27.jpg]]
+![](source-images/2019-04-27.jpg)
 
 ## The Bridge
 
@@ -206,7 +206,7 @@ A line of commitment - a vow to finish the path. On the far side of the bridge i
 
 Even in overwhelm, the way forward was still there - one page at a time.
 
-![[2019-06-01.jpg]]
+![](source-images/2019-06-01.jpg)
 
 ## The Butterfly Emerges
 
@@ -218,7 +218,7 @@ Just as I was a few days away from completing this piece, serendipity struck. At
 
 What followed was the decision to scale up dramatically - to move from A3 diary pages to meter-wide exhibition pieces. The butterfly had predicted its own transformation.
 
-![[2019-06-22.jpeg]]
+![](source-images/2019-06-22.jpeg)
 
 # Act III: Transformation
 
@@ -249,7 +249,7 @@ I realized, with almost comic clarity: **I am an artist.**
 The first of these "magic pieces" tells the story of how that shift happened - the wild adventure into Notting Hill Carnival, and the synchronicities that followed. It all began with a naked girl on a hand holding a Harry Potter book... but that's a story for another time. 😉
 
 __
-![[magic-piece.png]]
+![](source-images/magic-piece.png)
 
 ## Scale Transformation
 
@@ -257,7 +257,7 @@ Chrissy's revelation inspired the move to large-scale artwork. The surfing piece
 
 These weren't just bigger diary pages - they were sophisticated compositions that could hold their own in galleries while maintaining the intimate diary content that made them unique. The scale transformation wasn't just physical; it was conceptual. These were exhibition pieces designed to be experienced as fine art.
 
-![[surfer-piece.png]]
+![](source-images/surfer-piece.png)
 
 
 ## Slowing Down to Speed Up
@@ -272,7 +272,7 @@ Around the zebra's neck hangs a Flavor Flav clock with the line: "If you want to
 
 It was the perfect visual representation of artistic ambition meeting practical reality.
 
-![[zebra-piece.png]]
+![](source-images/zebra-piece.png)
 ## Healing the Origin Wound
 
 The church piece marked one of the most profound healing moments in the entire diary journey. To realize the dream of doing an art exhibition, I'd set up a studio in my family house in Putney - the first time I'd spent any length of time there in 15 years.
@@ -287,7 +287,7 @@ The piece became a systematic memory rewriting exercise. I painted "Time to rewr
 
 This wasn't just documentation anymore. The diary had become technology for actively rewriting personal history.
 
-![[church-piece.png]]
+![](source-images/church-piece.png)
 _[Visual: Church piece with rainbow over school - systematic memory rewriting and family protection]_
 
 ## The Memory Palace Mastery
@@ -308,7 +308,7 @@ The process was so powerful that later I began using memory palace techniques to
 
 It's a memory palace, yes - but also a kind of temple. A living map of devotion.
 
-![[2nd-quest-piece.jpeg]]
+![](source-images/2nd-quest-piece.jpeg)
 ## Time as Living Data
 
 In parallel with this artistic evolution, I'd been using NowThenPro to track my time since 2018. What started as productivity management became artistic innovation. Each diary piece now comes with its own data story - how many hours of art, distraction, love, collapse went into creating it.
@@ -317,8 +317,10 @@ During the digital design process, I realized each individual date could reveal 
 
 Time had become another medium in the work, adding unprecedented depth to the diary format. I was building a visualized cost of creation.
 
-![[pie-chart-visualization-example.png]]
-![[daily-timeline-visualization-example.png]]
+![](../6-time-data-invitation/pie-chart-visualization-example.png)
+![](../6-time-data-invitation/daily-timeline-visualization-example.png)
+
+For more detail on the time data please read here: [Time Data Invitation – README](../6-time-data-invitation/0-README.md) 
 ## The Complete System
 
 What began as survival had become art. What started as personal therapy had evolved into systematic innovation for processing human experience. The diary wasn't just documenting transformation - it was a technology for transformation itself.
