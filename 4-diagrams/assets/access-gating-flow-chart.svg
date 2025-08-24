@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 5327 4169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Artboard1" transform="matrix(1.03095,0,0,1.55107,-69.261,-5981.06)">
+        <rect x="67.182" y="3856.09" width="5166.96" height="2687.57" style="fill:none;"/>
+        <g id="ENTRY-POINTS" serif:id="ENTRY POINTS" transform="matrix(0.968113,0,0,1,55.8515,140.32)">
+            <g transform="matrix(0.637333,-6.24316e-34,5.97358e-17,0.81865,757.458,3381.16)">
+                <g id="ENTRY-POINTS1" serif:id="ENTRY POINTS">
+                    <path d="M774.514,1348.63L774.514,3513.59C774.514,3566.75 688.372,3609.9 582.268,3609.9L197.776,3609.9C91.673,3609.9 5.53,3566.75 5.53,3513.59L5.53,1348.63C5.53,1295.48 91.673,1252.32 197.776,1252.32L582.268,1252.32C688.372,1252.32 774.514,1295.48 774.514,1348.63Z" style="fill:rgb(0,253,255);stroke:black;stroke-width:4.15px;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.617817,-6.22071e-34,5.79065e-17,0.815707,1280.42,3383.93)">
+                <g id="ENTRY-POINTS2" serif:id="ENTRY POINTS">
+                    <path d="M774.514,1346.02L774.514,3516.21C774.514,3567.92 688.372,3609.9 582.268,3609.9L197.776,3609.9C91.673,3609.9 5.53,3567.92 5.53,3516.21L5.53,1346.02C5.53,1294.31 91.673,1252.32 197.776,1252.32L582.268,1252.32C688.372,1252.32 774.514,1294.31 774.514,1346.02Z" style="fill:rgb(255,64,255);stroke:black;stroke-width:8.37px;stroke-dasharray:8.37,25.12,0,0,0,0;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.409415,0,0,0.299511,281.145,4870.08)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2293.94,365.886 2257.08,365.886L1298.06,365.886C1261.21,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1261.21,130.941 1298.06,130.941L2257.08,130.941C2293.94,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:9.52px;"/>
+            </g>
+            <g transform="matrix(0.14027,0,0,0.0975631,630.408,4916.8)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">USER CLICKS GALLER<tspan x="2265.84px 2323.89px 2348.73px " y="267.086px 267.086px 267.086px ">Y P</tspan>IECE</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– Selects artwork from thumbnail</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– <tspan x="1366.66px 1418px 1447.77px " y="445.874px 445.874px 445.874px ">Tri</tspan>ggers image access check</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="535.268px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-109.372,0)">
+                    <text x="1376.69px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">Governed by</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-158.477,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2609.04,535.268)">
+                    </g>
+                    <text x="1958.79px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;fill:rgb(181,0,19);">&apos;images_access&apos;</text>
+                </g>
+            </g>
+            <g transform="matrix(0.465458,0,0,0.299511,74.661,4863.83)">
+                <g transform="matrix(50,0,0,50,2356.2,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">1. USER CLICKS GALLER<tspan x="2159.82px 2192.26px 2206.16px " y="216.166px 216.166px 216.166px ">Y P</tspan>IECE</text>
+            </g>
+            <g transform="matrix(1.00193,0,5.99942e-17,0.644717,677.064,3695.99)">
+                <text x="173.216px" y="1201.03px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:41.667px;">ENTR<tspan x="285.094px 312.132px 323.709px " y="1201.03px 1201.03px 1201.03px ">Y P</tspan>OINTS</text>
+            </g>
+            <g transform="matrix(1.00193,0,5.99942e-17,0.644717,1191.63,3701.48)">
+                <text x="119.627px" y="1201.03px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:41.667px;">ST<tspan x="169.778px 196.776px 222.228px " y="1201.03px 1201.03px 1201.03px ">ATI</tspan>C FIELD INPUT</text>
+                <g transform="matrix(41.6667,0,0,41.6667,383.889,1244.06)">
+                </g>
+                <text x="268.146px" y="1244.06px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:41.667px;">ZONE</text>
+            </g>
+            <g transform="matrix(1.00193,0,5.99942e-17,0.644717,699.9,3739.28)">
+                <text x="119.98px" y="1192.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Points where a user can begin</text>
+                <text x="136.187px" y="1222.21px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">the journey into a piece or a</text>
+                <g transform="matrix(29.1667,0,0,29.1667,177.537,1252.33)">
+                </g>
+                <g transform="matrix(29.1667,0,0,29.1667,185.641,1252.33)">
+                </g>
+                <text x="109.448px" y="1252.34px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">speciﬁc hotspot. Could originate</text>
+                <text x="121.903px" y="1282.46px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">from the gallery<tspan x="320.743px 328.846px " y="1282.46px 1282.46px ">, </tspan>a shared link,</text>
+                <g transform="matrix(29.1667,0,0,29.1667,441.006,1312.58)">
+                </g>
+                <text x="191.323px" y="1312.58px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">or a journey teaser<tspan x="432.902px " y="1312.58px ">.</tspan></text>
+            </g>
+            <g transform="matrix(1.00193,0,5.99942e-17,0.644717,1201.15,3764.29)">
+                <text x="142.717px" y="1192.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Gallery Manifest &amp; Hotspot</text>
+                <text x="113.493px" y="1222.21px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Sheet access rules feeding into</text>
+                <g transform="matrix(29.1667,0,0,29.1667,442.608,1252.33)">
+                </g>
+                <text x="189.721px" y="1252.34px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Access Logic Stack</text>
+            </g>
+            <g id="_15a-USER-SHARES-HOTSPOT-LINK" serif:id="15a USER SHARES HOTSPOT LINK" transform="matrix(0.465057,0,0,0.299511,215.08,5182.14)">
+                <g transform="matrix(0.880356,0,0,1.7291,142.058,-56.9323)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2272.12,365.886 2208.4,365.886L1346.75,365.886C1283.02,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1283.02,130.941 1346.75,130.941L2208.4,130.941C2272.12,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:6.54px;"/>
+                </g>
+                <g transform="matrix(0.307577,0,0,0.339513,849.647,258.468)">
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:101.269px;fill:rgb(14,14,14);">User taps “Share this moment”&apos; to generate a link</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1359.5px" y="388.61px" style="font-family:'Helvetica';font-size:101.269px;fill:rgb(14,14,14);"><tspan x="1359.5px 1394.95px 1556.98px " y="388.61px 388.61px 388.61px ">• G</tspan>enerates a deep link to hotspot (no access override)</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1359.5px" y="510.133px" style="font-family:'Helvetica';font-size:101.269px;fill:rgb(14,14,14);"><tspan x="1359.5px 1394.95px 1556.98px " y="510.133px 510.133px 510.133px ">• I</tspan>f gated, user must verify email to access</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                    <text x="1558.87px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">15a USER CLICKS HOTSPOT</text>
+                    <g transform="matrix(50,0,0,50,2017.26,267.802)">
+                    </g>
+                    <text x="1792.26px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">LINK (V1)</text>
+                </g>
+            </g>
+            <g id="_3.-USER-CLICKS-HOTSPOT" serif:id="3. USER CLICKS HOTSPOT" transform="matrix(0.465458,0,0,0.299511,237.116,5620.6)">
+                <g transform="matrix(0.879596,0,0,1,94.5919,38.5361)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2293.94,365.886 2257.08,365.886L1298.06,365.886C1261.21,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1261.21,130.941 1298.06,130.941L2257.08,130.941C2293.94,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear1);stroke:black;stroke-width:9.52px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                    <g transform="matrix(50,0,0,50,2197.81,216.166)">
+                    </g>
+                    <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">3. USER CLICKS HOTSPOT</text>
+                </g>
+                <g transform="matrix(0.301359,0,0,0.325741,893.843,203.884)">
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">USER CLICKS HOTSPOT<tspan x="2345.15px 2369.99px " y="267.086px 267.086px "> W</tspan>ITHIN PIECE</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– <tspan x="1363.35px 1422.97px " y="356.48px 356.48px ">At</tspan>tempts to play narration / show media</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="445.874px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-109.372,0)">
+                        <g transform="matrix(89.394,0,0,89.394,2579.19,445.874)">
+                        </g>
+                        <text x="1375.12px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;"><tspan x="1375.12px 1426.45px 1456.22px " y="445.874px 445.874px 445.874px ">Tri</tspan>ggers hotspot access check</text>
+                    </g>
+                </g>
+            </g>
+            <g id="_15a-USER-SHARES-HOTSPOT-LINK1" serif:id="15a USER SHARES HOTSPOT LINK" transform="matrix(0.465458,0,0,0.299511,228.579,5958.78)">
+                <g transform="matrix(0.880356,0,0,1.7291,111.998,-56.9323)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2272.17,365.886 2208.5,365.886L1346.65,365.886C1282.98,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1282.98,130.941 1346.65,130.941L2208.5,130.941C2272.17,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:6.54px;"/>
+                </g>
+                <g transform="matrix(0.307577,0,0,0.339513,849.647,258.468)">
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:86.987px;">User taps “Share this moment”</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1390.35px" y="354.073px" style="font-family:'Helvetica';font-size:86.987px;">-Generates deep link to hotspot</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1390.35px" y="441.06px" style="font-family:'Helvetica';font-size:86.987px;">-</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-148.728,0)">
+                        <text x="1432.37px" y="441.06px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:86.987px;">✅</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-158.698,0)">
+                        <text x="1552.55px" y="441.06px" style="font-family:'Helvetica';font-size:86.987px;">If override is allowed</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-255.117,0)">
+                        <text x="2456.98px" y="441.06px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:86.987px;">→</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-265.087,0)">
+                        <text x="2577.16px" y="441.06px" style="font-family:'Helvetica';font-size:86.987px;">grants narration access for one hotspot</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1390.35px" y="528.047px" style="font-family:'Helvetica';font-size:86.987px;">-</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-148.728,0)">
+                        <text x="1432.37px" y="528.047px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:86.987px;">🔒</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-158.698,0)">
+                        <text x="1552.55px" y="528.047px" style="font-family:'Helvetica';font-size:86.987px;">If not</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-186.407,0)">
+                        <text x="1795.25px" y="528.047px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:86.987px;">→</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-196.377,0)">
+                        <g transform="matrix(86.9869,0,0,86.9869,3269.09,528.047)">
+                        </g>
+                        <g transform="matrix(86.9869,0,0,86.9869,3293.25,528.047)">
+                        </g>
+                        <text x="1915.44px" y="528.047px" style="font-family:'Helvetica';font-size:86.987px;">link behaves like normal (email veriﬁcation required,</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1414.52px" y="615.034px" style="font-family:'Helvetica';font-size:86.987px;">narration gated)</text>
+                    </g>
+                    <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                        <text x="1390.35px" y="702.021px" style="font-family:'Helvetica';font-size:86.987px;">- Optional: temporary override, expiry<tspan x="2819.78px 2843.94px " y="702.021px 702.021px ">, </tspan>or one-time use</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                    <text x="1557.5px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">15b USER CLICKS HOTSPOT</text>
+                    <g transform="matrix(50,0,0,50,2017.26,267.802)">
+                    </g>
+                    <text x="1792.26px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">LINK (V2)</text>
+                </g>
+            </g>
+        </g>
+        <g id="_11.-SESSION-CONTEXT---STATE-HANDLING-" serif:id="11. SESSION CONTEXT/  STATE HANDLING " transform="matrix(0.450616,0,0,0.299511,1580.56,4367.85)">
+            <g transform="matrix(5.03377,0,0,29.8521,-5740.8,-3919.08)">
+                <path d="M2323.86,149.643L2323.86,347.184C2323.86,357.506 2274.16,365.886 2212.95,365.886L1342.2,365.886C1280.98,365.886 1231.28,357.506 1231.28,347.184L1231.28,149.643C1231.28,139.321 1280.98,130.941 1342.2,130.941L2212.95,130.941C2274.16,130.941 2323.86,139.321 2323.86,149.643Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:0.63px;stroke-dasharray:1.26,1.26,0,0,0,0;"/>
+            </g>
+            <g transform="matrix(0.384067,0,0,0.423947,2730.54,85.9437)">
+                <g transform="matrix(1.10383,0,0,1,-90.9123,0)">
+                    <g transform="matrix(148.092,0,0,148.092,3509.83,267.086)">
+                    </g>
+                    <g transform="matrix(148.092,0,0,148.092,3550.98,267.086)">
+                    </g>
+                    <text x="875.557px" y="267.086px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:148.092px;">Supports all access logic and execution ﬂows</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-19.5744,0)">
+                    <g transform="matrix(148.092,0,0,148.092,2553.07,572.96)">
+                    </g>
+                    <g transform="matrix(148.092,0,0,148.092,2594.22,572.96)">
+                    </g>
+                    <text x="188.517px" y="572.96px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:148.092px;">• Maintains session state (email-veriﬁed, subscription, overrides)</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-85.579,0)">
+                    <text x="824.194px" y="725.897px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:148.092px;">• Enables fast reentry without re-authentication</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-60.1104,0)">
+                    <text x="578.911px" y="878.834px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:148.092px;">• Powers decisions in Boxes 2–9 and override checks</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-61.9834,0)">
+                    <g transform="matrix(148.092,0,0,148.092,4073.43,1031.77)">
+                    </g>
+                    <text x="596.95px" y="1031.77px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:148.092px;">• Not a sequential step — lives behind all gating logic</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,1315.51,-98.9922)">
+                <g transform="matrix(80.7212,0,0,80.7212,3048.52,216.166)">
+                </g>
+                <text x="1513.24px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:80.721px;">SESSION CONTEXT/ ST<tspan x="2422.22px 2474.53px 2523.84px " y="216.166px 216.166px 216.166px ">ATE</tspan> HANDLING</text>
+            </g>
+        </g>
+        <g id="ACCESS---CORE-COLUMN" serif:id="ACCESS - CORE COLUMN" transform="matrix(0.968113,0,0,1,148.997,384.79)">
+            <g id="ACCESS-COLUMN" serif:id="ACCESS COLUMN" transform="matrix(0.805705,0,0,0.51677,945.929,4293.78)">
+                <g transform="matrix(0.517407,0,0,15.0565,303.437,-2228.47)">
+                    <path d="M2323.86,140.358L2323.86,356.469C2323.86,361.667 2201.47,365.886 2050.72,365.886L1504.43,365.886C1353.68,365.886 1231.28,361.667 1231.28,356.469L1231.28,140.358C1231.28,135.16 1353.68,130.941 1504.43,130.941L2050.72,130.941C2201.47,130.941 2323.86,135.16 2323.86,140.358Z" style="fill:rgb(255,252,121);stroke:black;stroke-width:0.49px;"/>
+                </g>
+                <g transform="matrix(1.24354,0,0,1.24759,-1722.3,-443.103)">
+                    <text x="2162.75px" y="249.255px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:37.5px;">ACCESS LOGIC ZONE</text>
+                    <g transform="matrix(37.5,0,0,37.5,2550.37,287.982)">
+                    </g>
+                    <text x="2162.75px" y="287.982px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:37.5px;">(Core Decision Stack)</text>
+                </g>
+                <g transform="matrix(1.24115,0,0,1.9351,-1174.04,-8308.89)">
+                    <g id="_2.-CHECK-IMAGE-ACCESS" serif:id="2. CHECK IMAGE ACCESS" transform="matrix(0.46558,0,0,0.299511,1173.44,4616.44)">
+                        <g transform="matrix(0.767701,0,0,1,271.897,38.5361)">
+                            <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2289.59,365.886 2247.37,365.886L1307.77,365.886C1265.56,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1265.56,130.941 1307.77,130.941L2247.37,130.941C2289.59,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:10.06px;"/>
+                        </g>
+                        <g transform="matrix(0.301359,0,0,0.325741,883.369,194.505)">
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">CHECK IMAGE <tspan x="1939.48px 1999.1px " y="267.086px 267.086px ">AC</tspan>CESS</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– If &apos;images_access&apos; = free</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-199.118,0)">
+                                <text x="2461.12px" y="356.48px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-203.825,0)">
+                                <text x="2544.14px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">show artwork</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– If &apos;images_access&apos; = gated</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-205.21,0)">
+                                <text x="2536.43px" y="445.874px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-209.917,0)">
+                                <g transform="matrix(89.394,0,0,89.394,3220.58,445.874)">
+                                </g>
+                                <g transform="matrix(89.394,0,0,89.394,3245.41,445.874)">
+                                </g>
+                                <text x="2619.44px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">check user veriﬁcation</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <text x="1293.68px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">– If &apos;images_access&apos; = supporter</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-218.673,0)">
+                                <text x="2702.83px" y="535.268px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-223.38,0)">
+                                <g transform="matrix(89.394,0,0,89.394,3521.2,535.268)">
+                                </g>
+                                <text x="2785.84px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">check subscription</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                            <g transform="matrix(50,0,0,50,2179.3,216.166)">
+                            </g>
+                            <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">2. CHECK IMAGE <tspan x="1970.93px 2007.04px " y="216.166px 216.166px ">AC</tspan>CESS</text>
+                        </g>
+                    </g>
+                    <g id="_5.-DEEP-LINK-HANDLING" serif:id="5. DEEP LINK HANDLING" transform="matrix(0.465458,0,0,0.299511,1206.33,4947.97)">
+                        <g transform="matrix(0.652946,0,0,1.40749,413.192,-14.8208)">
+                            <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2267.13,365.886 2197.25,365.886L1357.9,365.886C1288.02,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1288.02,130.941 1357.9,130.941L2197.25,130.941C2267.13,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:8.18px;"/>
+                        </g>
+                        <g transform="matrix(0.307577,0,0,0.339513,885.802,241.449)">
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">DEEP<tspan x="1535.54px 1560.38px " y="267.086px 267.086px "> L</tspan>INK HANDLING</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <g transform="matrix(89.394,0,0,89.394,2193.12,356.48)">
+                                </g>
+                                <g transform="matrix(89.394,0,0,89.394,2217.96,356.48)">
+                                </g>
+                                <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– If user opens a speciﬁc piece/hotspot</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <text x="1368.19px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">/journey via link</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <g transform="matrix(89.394,0,0,89.394,2625.43,535.268)">
+                                </g>
+                                <g transform="matrix(89.394,0,0,89.394,2650.26,535.268)">
+                                </g>
+                                <text x="1293.68px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">– Load destination IF session veriﬁed</text>
+                            </g>
+                            <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                                <g transform="matrix(89.394,0,0,89.394,2754.41,624.662)">
+                                </g>
+                                <text x="1293.68px" y="624.662px" style="font-family:'Helvetica';font-size:89.394px;">– Else redirect to Magic Link process</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                            <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">5a. DEEP<tspan x="1766.39px 1780.28px " y="216.166px 216.166px "> L</tspan>INK HANDLING</text>
+                            <g transform="matrix(50,0,0,50,2082.16,267.802)">
+                            </g>
+                            <text x="1640.26px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">(Bypasses gallery)</text>
+                        </g>
+                    </g>
+                    <g id="_5.-DEEP-LINK-HANDLING1" serif:id="5. DEEP LINK HANDLING" transform="matrix(0.465458,0,0,0.299511,1206.33,5734.56)">
+                        <g transform="matrix(0.652946,0,0,2.1913,413.192,-117.454)">
+                            <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2235.53,365.886 2126.74,365.886L1428.4,365.886C1319.61,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1319.61,130.941 1428.4,130.941L2126.74,130.941C2235.53,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:5.55px;"/>
+                        </g>
+                        <g transform="matrix(2.15256,0,0,2.15256,-2447.37,-7088.02)">
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1718.52px" y="3461.33px" style="font-family:'Helvetica';font-size:14.1px;">DEEP<tspan x="1756.67px 1760.59px " y="3461.33px 3461.33px "> L</tspan>INK HANDLING</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <g transform="matrix(14.0997,0,0,14.0997,1860.38,3475.43)">
+                                </g>
+                                <g transform="matrix(14.0997,0,0,14.0997,1864.3,3475.43)">
+                                </g>
+                                <text x="1718.52px" y="3475.43px" style="font-family:'Helvetica';font-size:14.1px;">– If user opens a speciﬁc piece/hotspot</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1730.27px" y="3489.53px" style="font-family:'Helvetica';font-size:14.1px;">/journey via link</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <g transform="matrix(14.0997,0,0,14.0997,1928.57,3503.63)">
+                                </g>
+                                <g transform="matrix(14.0997,0,0,14.0997,1932.49,3503.63)">
+                                </g>
+                                <text x="1718.52px" y="3503.63px" style="font-family:'Helvetica';font-size:14.1px;">– Load destination IF session veriﬁed</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1718.52px" y="3517.73px" style="font-family:'Helvetica';font-size:14.1px;">– Else redirect to Magic Link process</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1718.52px" y="3545.93px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14.1px;">note. If link is to whole piece (not hotspot)</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1718.52px" y="3560.03px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14.1px;">path continues to 6a for access check</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,40.8762,0)">
+                                <text x="1971.82px" y="3560.03px" style="font-family:'Helvetica';font-size:14.1px;">-</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1718.52px" y="3574.13px" style="font-family:'Helvetica';font-size:14.1px;">i haven&apos;t drawn the arrow as it would mess up my</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,35.6963,0)">
+                                <text x="1718.52px" y="3588.23px" style="font-family:'Helvetica';font-size:14.1px;">beautiful looking schema</text>
+                            </g>
+                            <g transform="matrix(0.979228,0,0,1,38.9326,0)">
+                                <text x="1874.33px" y="3588.23px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:14.1px;">🤓</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                            <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">5b. DEEP<tspan x="1769.12px 1783.01px " y="216.166px 216.166px "> L</tspan>INK HANDLING</text>
+                            <g transform="matrix(50,0,0,50,2087.7,267.802)">
+                            </g>
+                            <text x="1637.45px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">(Bypasses Gallery)</text>
+                        </g>
+                    </g>
+                    <g id="_4.-CHECK-HOTSPOT-ACCESS" serif:id="4. CHECK HOTSPOT ACCESS" transform="matrix(0.465458,0,0,0.299511,1186.29,5369.33)">
+                        <g transform="matrix(0.767902,0,0,1.18157,244.351,14.7611)">
+                            <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2283.36,365.886 2233.48,365.886L1321.66,365.886C1271.78,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1271.78,130.941 1321.66,130.941L2233.48,130.941C2283.36,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear2);stroke:black;stroke-width:9px;"/>
+                        </g>
+                        <g transform="matrix(2.15256,0,0,2.15256,-2547.7,-3927.74)">
+                            <g transform="matrix(1.01167,0,0,1,-20.4327,0)">
+                                <text x="1750.93px" y="1957.39px" style="font-family:'Helvetica';font-size:14.1px;">CHECK HOTSPOT<tspan x="1872.11px 1875.25px 1884.66px " y="1957.39px 1957.39px 1957.39px "> AC</tspan>CESS</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-20.4327,0)">
+                                <text x="1750.93px" y="1971.5px" style="font-family:'Helvetica';font-size:14.1px;">– If &apos;narration_access&apos;, &apos;overlay_access&apos;,  = free</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-23.96,0)">
+                                <text x="2053.2px" y="1971.5px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14.1px;">→</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-24.0602,0)">
+                                <text x="2065.7px" y="1971.5px" style="font-family:'Helvetica';font-size:14.1px;">show</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-20.4327,0)">
+                                <text x="1750.93px" y="1985.59px" style="font-family:'Helvetica';font-size:14.1px;">content</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-20.4327,0)">
+                                <text x="1750.93px" y="1999.69px" style="font-family:'Helvetica';font-size:14.1px;">– If gated</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-21.173,0)">
+                                <text x="1814.37px" y="1999.69px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14.1px;">→</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-21.2733,0)">
+                                <g transform="matrix(14.0997,0,0,14.0997,1890.35,1999.69)">
+                                </g>
+                                <g transform="matrix(14.0997,0,0,14.0997,1894.27,1999.69)">
+                                </g>
+                                <text x="1826.88px" y="1999.69px" style="font-family:'Helvetica';font-size:14.1px;">check veriﬁcation</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-20.4327,0)">
+                                <text x="1750.93px" y="2013.79px" style="font-family:'Helvetica';font-size:14.1px;">– If supporter</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-21.4597,0)">
+                                <text x="1838.94px" y="2013.79px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14.1px;">→</text>
+                            </g>
+                            <g transform="matrix(1.01167,0,0,1,-21.5599,0)">
+                                <g transform="matrix(14.0997,0,0,14.0997,1967.43,2013.79)">
+                                </g>
+                                <text x="1851.44px" y="2013.79px" style="font-family:'Helvetica';font-size:14.1px;">check subscription</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                            <g transform="matrix(50,0,0,50,2257.08,216.166)">
+                            </g>
+                            <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">4. CHECK HOTSPOT <tspan x="2048.71px 2084.82px " y="216.166px 216.166px ">AC</tspan>CESS</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(2.1321e-17,0.198104,-0.768169,5.48781e-17,2992.18,5158.07)">
+                        <path d="M-318.798,1401.17L-318.798,1393.64L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-318.798,1401.17Z" style="stroke:black;stroke-width:1.71px;"/>
+                    </g>
+                    <g transform="matrix(1.00193,0,0,0.644717,61.0743,4177.33)">
+                        <text x="1868.66px" y="1466.18px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">If deep</text>
+                        <text x="1868.66px" y="1488.78px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">link =</text>
+                        <text x="1868.66px" y="1511.39px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">hotspot</text>
+                        <text x="1868.66px" y="1533.99px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">proceed</text>
+                        <text x="1868.66px" y="1556.6px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">to</text>
+                        <text x="1868.66px" y="1579.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">hotspot</text>
+                        <g transform="matrix(21.888,0,0,21.888,1928.3,1601.8)">
+                        </g>
+                        <text x="1868.66px" y="1601.8px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.888px;">gating</text>
+                    </g>
+                    <g transform="matrix(0.00251432,-0.198098,0.768143,0.0040369,845.512,5759.69)">
+                        <path d="M18.796,1400.58C18.796,1400.58 18.796,1400.58 18.796,1400.57C18.796,1396.42 27.183,1393.05 37.55,1393.04C187.503,1392.85 1186.05,1391.65 1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L18.796,1400.58Z" style="stroke:black;stroke-width:1.71px;"/>
+                    </g>
+                    <g transform="matrix(1.00193,0,0,0.644717,67.1818,3857.31)">
+                        <text x="1875.38px" y="2732.75px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">If no</text>
+                        <text x="1875.38px" y="2755.41px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">override</text>
+                        <text x="1875.38px" y="2778.07px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">found</text>
+                        <text x="1875.38px" y="2800.73px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">proceed</text>
+                        <text x="1875.38px" y="2823.39px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">to</text>
+                        <text x="1875.38px" y="2846.05px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">standard</text>
+                        <g transform="matrix(21.9419,0,0,21.9419,1935.16,2868.71)">
+                        </g>
+                        <text x="1875.38px" y="2868.71px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">gating</text>
+                    </g>
+                    <g id="🧩-Magic-Piece-Exception" serif:id="🧩 Magic Piece Exception" transform="matrix(0.465458,0,0,0.299511,1201.73,4737.05)">
+                        <g transform="matrix(0.670205,0,0,1.81956,391.941,-68.7782)">
+                            <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2252.41,365.886 2164.39,365.886L1390.75,365.886C1302.74,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1302.74,130.941 1390.75,130.941L2164.39,130.941C2252.41,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:6.54px;"/>
+                        </g>
+                        <g transform="matrix(2.15256,0,0,2.15256,-1522.45,-649.925)">
+                            <text x="1284.87px" y="443.917px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">There will always be the &quot;magic&quot; title</text>
+                            <text x="1284.87px" y="461.49px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">piece that</text>
+                            <text x="1289.76px" y="479.062px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">is fully available will full access</text>
+                            <text x="1284.87px" y="496.634px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">• <tspan x="1307.47px " y="496.634px ">I</tspan>mages_access = free</text>
+                            <text x="1284.87px" y="514.206px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">• <tspan x="1307.47px " y="514.206px ">n</tspan>arration_access = free</text>
+                            <text x="1284.87px" y="531.778px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">• <tspan x="1307.47px " y="531.778px ">N</tspan>o email or subscription required</text>
+                            <g transform="matrix(17.5721,0,0,17.5721,1416.84,549.35)">
+                            </g>
+                            <text x="1284.87px" y="549.35px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">• <tspan x="1307.47px " y="549.35px ">A</tspan>lways visible</text>
+                        </g>
+                        <g transform="matrix(0.567949,0,0,0.567949,372.684,112.583)">
+                            <text x="1547.73px" y="216.166px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:96.27px;fill:rgb(14,14,14);">🧩</text>
+                            <g transform="matrix(96.2704,0,0,96.2704,2718.67,216.166)">
+                            </g>
+                            <text x="1670.77px" y="216.166px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:96.27px;fill:rgb(14,14,14);">Magic Piece Exception</text>
+                        </g>
+                    </g>
+                    <g id="ZOOM-IN" serif:id="ZOOM IN" transform="matrix(0.262537,0,0,0.299511,1397.93,5217.24)">
+                        <g transform="matrix(0.670205,0,0,1.81956,391.941,-68.7782)">
+                            <path d="M2323.86,187.687L2323.86,309.139C2323.86,340.459 2201.47,365.886 2050.72,365.886L1504.43,365.886C1353.68,365.886 1231.28,340.459 1231.28,309.139L1231.28,187.687C1231.28,156.368 1353.68,130.941 1504.43,130.941L2050.72,130.941C2201.47,130.941 2323.86,156.368 2323.86,187.687Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:6.83px;"/>
+                        </g>
+                        <g transform="matrix(3.81633,0,0,2.15256,-3611.92,-431.525)">
+                            <text x="1284.87px" y="444.715px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:17.572px;fill:rgb(14,14,14);">→</text>
+                            <text x="1300.34px" y="444.715px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">see separate</text>
+                            <g transform="matrix(17.5721,0,0,17.5721,1414.78,462.288)">
+                            </g>
+                            <text x="1284.87px" y="462.288px" style="font-family:'Helvetica';font-size:17.572px;fill:rgb(14,14,14);">Hotspot Schema</text>
+                        </g>
+                        <g transform="matrix(3.81633,0,0,2.15256,-5064.59,-5151.57)">
+                            <text x="1684.97px" y="2567.62px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20.833px;fill:rgb(14,14,14);">Zoom in on</text>
+                            <text x="1702.91px" y="2588.45px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20.833px;fill:rgb(14,14,14);">hotspot</text>
+                            <g transform="matrix(20.8333,0,0,20.8333,1796.66,2609.28)">
+                            </g>
+                            <text x="1691.31px" y="2609.28px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20.833px;fill:rgb(14,14,14);">behaviour</text>
+                        </g>
+                        <g transform="matrix(3.81633,0,0,2.15256,-5062.59,-5278.93)">
+                            <text x="1704.07px" y="2587.37px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">⚠️🔎</text>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1.24354,0,0,1.24759,-1577.88,-456.707)">
+                    <text x="2053.24px" y="342.96px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">This engine determines whether</text>
+                    <text x="2086.49px" y="373.081px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">a user is allowed to access</text>
+                    <text x="2093.76px" y="403.201px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">piece-level content and/or</text>
+                    <text x="2056.46px" y="433.322px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">individual hotspot media, based</text>
+                    <text x="2067.81px" y="463.443px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">on how they entered and their</text>
+                    <text x="2122.16px" y="493.564px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">current session state.</text>
+                    <text x="2047.91px" y="538.745px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:18.75px;">• <tspan x="2071.53px " y="538.745px ">I</tspan>f the user entered via the gallery</text>
+                    <text x="2364.35px" y="538.745px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">, piece-level</text>
+                    <g transform="matrix(18.75,0,0,18.75,2254.52,558.109)">
+                    </g>
+                    <g transform="matrix(18.75,0,0,18.75,2259.73,558.109)">
+                    </g>
+                    <text x="2097.16px" y="558.109px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">access is checked ﬁrst (e.g., gated by email).</text>
+                    <text x="2097.16px" y="577.472px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">If passed, this unlocks any access: gated</text>
+                    <text x="2097.16px" y="596.835px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">content across all hotspots in the piece.</text>
+                    <text x="2097.16px" y="616.199px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">However<tspan x="2170.11px 2175.32px " y="616.199px 616.199px ">, </tspan>access: subscribed types will still</text>
+                    <text x="2097.16px" y="635.562px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">prompt a subscription.</text>
+                    <text x="2047.91px" y="674.289px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:18.75px;">• <tspan x="2071.53px " y="674.289px ">I</tspan>f the user enters via a direct hotspot share,</text>
+                    <text x="2097.16px" y="693.652px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:18.75px;">journey link, or deep link</text>
+                    <text x="2318.04px" y="693.652px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">, piece view gating</text>
+                    <text x="2097.16px" y="713.016px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">is bypassed. <tspan x="2205.56px 2218.07px " y="713.016px 713.016px ">Ac</tspan>cess is then evaluated</text>
+                    <text x="2097.16px" y="732.379px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">directly at the hotspot interaction level.</text>
+                    <text x="2047.91px" y="771.106px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">After the appropriate entry check, each content</text>
+                    <text x="2047.91px" y="790.469px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">type (e.g., narration, overlay<tspan x="2279.97px 2285.18px 2289.36px 2301.86px " y="790.469px 790.469px 790.469px 790.469px ">, Ab</tspan>out) is evaluated</text>
+                    <text x="2047.91px" y="809.833px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">for access independently<tspan x="2253.94px 2259.15px 2264.02px 2275.48px " y="809.833px 809.833px 809.833px 809.833px ">. Th</tspan>is logic supports:</text>
+                    <g transform="matrix(18.75,0,0,18.75,2276.81,848.56)">
+                    </g>
+                    <g transform="matrix(18.75,0,0,18.75,2282.02,848.56)">
+                    </g>
+                    <text x="2047.91px" y="848.56px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">• <tspan x="2071.53px " y="848.56px ">S</tspan>ession state (email-veriﬁed users/ subscribed)</text>
+                    <text x="2047.91px" y="867.923px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">• <tspan x="2071.53px " y="867.923px ">D</tspan>eep-link overrides</text>
+                    <g transform="matrix(18.75,0,0,18.75,2188.25,887.286)">
+                    </g>
+                    <g transform="matrix(18.75,0,0,18.75,2193.46,887.286)">
+                    </g>
+                    <text x="2047.91px" y="887.286px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">• <tspan x="2071.53px " y="887.286px ">J</tspan>ourney-speciﬁc permissioning</text>
+                    <g transform="matrix(18.75,0,0,18.75,2461.31,906.65)">
+                    </g>
+                    <text x="2047.91px" y="906.65px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:18.75px;">• <tspan x="2071.53px " y="906.65px ">P</tspan>er-type gating (gated vs subscribed vs public)</text>
+                </g>
+                <g transform="matrix(2.64625e-17,0.383352,-0.953412,1.06195e-16,2421.89,1697.03)">
+                    <path d="M1139,1399.24L1139,1391.71L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L1139,1399.24Z" style="stroke:black;stroke-width:1.71px;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.00454039,-0.357728,1.38712,0.00728988,-1354.55,6217.53)">
+                <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+            </g>
+            <g transform="matrix(-0.554292,0.0275963,-0.107007,-0.88995,2014.06,7339.82)">
+                <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+            </g>
+            <g transform="matrix(-0.555949,4.16334e-17,-3.33067e-16,-0.89261,4971.46,7377.74)">
+                <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+            </g>
+            <g transform="matrix(3.06587e-17,0.35774,-1.38717,1.59664e-16,6681.25,5540.11)">
+                <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+            </g>
+            <g transform="matrix(3.06587e-17,0.35774,-1.38717,1.59664e-16,6680.98,4425.48)">
+                <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+            </g>
+            <g transform="matrix(0.555949,4.33681e-19,1.47451e-16,0.89261,-9.61947,4209.65)">
+                <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+            </g>
+        </g>
+        <g id="CONTENT-ACCESS-ZONE" serif:id="CONTENT ACCESS ZONE" transform="matrix(0.968113,0,0,1,91.1493,380.235)">
+            <g transform="matrix(0.416877,0,0,8.10313,3798.63,3105.43)">
+                <path d="M2323.86,139.983L2323.86,356.844C2323.86,361.835 2201.47,365.886 2050.72,365.886L1504.43,365.886C1353.68,365.886 1231.28,361.835 1231.28,356.844L1231.28,139.983C1231.28,134.992 1353.68,130.941 1504.43,130.941L2050.72,130.941C2201.47,130.941 2323.86,134.992 2323.86,139.983Z" style="fill:rgb(255,252,121);stroke:black;stroke-width:0.47px;"/>
+            </g>
+            <g id="_10.-GRANT-IMAGE-ACCESS" serif:id="10. GRANT IMAGE ACCESS" transform="matrix(0.465458,0,0,0.299511,3775.15,4621.05)">
+                <g transform="matrix(0.84571,0,0,1.56246,129.758,-76.9688)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2275.24,365.886 2215.35,365.886L1339.8,365.886C1279.91,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1279.91,130.941 1339.8,130.941L2215.35,130.941C2275.24,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(254,255,0);"/>
+                </g>
+                <g transform="matrix(0.767701,0,0,1.18157,271.897,14.7611)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2283.35,365.886 2233.46,365.886L1321.68,365.886C1271.79,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1271.79,130.941 1321.68,130.941L2233.46,130.941C2283.35,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:9px;"/>
+                </g>
+                <g transform="matrix(0.307577,0,0,0.339513,885.802,194.716)">
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">GRANT<tspan x="1604.99px 1624.94px 1684.56px " y="267.086px 267.086px 267.086px "> AC</tspan>CESS <tspan x="2015.82px 2068.85px 2138.39px " y="267.086px 267.086px 267.086px ">TO </tspan>CONTENT</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– Show image</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– Links are live in all instances</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">- narration and media might be gated</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                    <g transform="matrix(50,0,0,50,2207.08,216.166)">
+                    </g>
+                    <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">10. GRANT IMAGE <tspan x="1998.71px 2034.82px " y="216.166px 216.166px ">AC</tspan>CESS</text>
+                </g>
+            </g>
+            <g id="_13.-GRANT-NARRATION-ACCESS" serif:id="13. GRANT NARRATION ACCESS" transform="matrix(0.465458,0,0,0.299511,3772.06,5368.39)">
+                <g transform="matrix(0.84571,0,0,1.56246,159.799,-60.4823)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2275.24,365.886 2215.35,365.886L1339.8,365.886C1279.91,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1279.91,130.941 1339.8,130.941L2215.35,130.941C2275.24,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(254,255,0);"/>
+                </g>
+                <g transform="matrix(0.737503,0,0,1.36254,342.072,-8.93553)">
+                    <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2275.24,365.886 2215.35,365.886L1339.8,365.886C1279.91,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1279.91,130.941 1339.8,130.941L2215.35,130.941C2275.24,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear3);stroke:black;stroke-width:8.19px;"/>
+                </g>
+                <g transform="matrix(0.307577,0,0,0.339513,888.843,250.725)">
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">GRANT<tspan x="1604.99px 1624.94px 1684.56px " y="267.086px 267.086px 267.086px "> AC</tspan>CESS <tspan x="2015.82px 2068.85px 2138.39px " y="267.086px 267.086px 267.086px ">TO </tspan>NARRA<tspan x="2469.55px 2524.16px " y="267.086px 267.086px ">TI</tspan>ON / OVERLA<tspan x="3113.69px 3171.74px 3196.58px " y="267.086px 267.086px 267.086px ">Y M</tspan>EDIA</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– Show narration / media / links</text>
+                    </g>
+                    <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                        <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">(based on user status + access level)</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,0.981842,-306.865,22.7698)">
+                    <text x="1680.18px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">13. GRANT NARRA<tspan x="2132.06px 2162.6px " y="216.166px 216.166px ">TI</tspan>ON</text>
+                    <g transform="matrix(50,0,0,50,2310.33,267.802)">
+                    </g>
+                    <text x="1621.34px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">/ OVERLA<tspan x="1852.88px 1886.23px 1900.13px 1912.16px 1948.27px " y="267.802px 267.802px 267.802px 267.802px 267.802px ">Y/ AB</tspan>OUT <tspan x="2101.96px 2138.07px " y="267.802px 267.802px ">AC</tspan>CESS</text>
+                </g>
+            </g>
+            <g transform="matrix(1.00193,0,0,0.644717,2174.17,4071.46)">
+                <text x="2190.97px" y="249.255px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:37.5px;">CONTENT <tspan x="2381.23px 2408.31px " y="249.255px 249.255px ">AC</tspan>CESS</text>
+                <text x="2175.64px" y="287.982px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:37.5px;">ZONE (Final Success</text>
+                <g transform="matrix(37.5,0,0,37.5,2422.57,326.708)">
+                </g>
+                <text x="2305.9px" y="326.708px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:37.5px;">State))</text>
+            </g>
+            <g transform="matrix(1.00193,0,0,0.644717,2294.31,4100.53)">
+                <text x="2064.47px" y="342.96px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Content becomes accessible</text>
+                <text x="2062.01px" y="373.081px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">once all gating conditions are</text>
+                <text x="2222.55px" y="403.201px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">met.</text>
+                <text x="2072.57px" y="433.322px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">This includes viewing gated</text>
+                <text x="2064.47px" y="463.443px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">images, hearing narration, or</text>
+                <text x="2092.82px" y="493.564px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">zooming to a highlighted</text>
+                <text x="2199.02px" y="523.685px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">hotspot.</text>
+                <text x="2072.58px" y="553.806px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Access paths may originate</text>
+                <text x="2049.89px" y="583.927px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">from direct interactions or deep</text>
+                <g transform="matrix(29.1667,0,0,29.1667,2340.87,614.047)">
+                </g>
+                <text x="2160.95px" y="614.047px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">link overrides.</text>
+            </g>
+        </g>
+        <g id="ACCESS-EXECUTION" serif:id="ACCESS EXECUTION" transform="matrix(0.968113,0,0,1,175.382,376.95)">
+            <g transform="matrix(1.91472,0,0,8.1504,-226.189,3102.52)">
+                <path d="M2323.86,172.231L2323.86,324.596C2323.86,347.385 2201.47,365.886 2050.72,365.886L1504.43,365.886C1353.68,365.886 1231.28,347.385 1231.28,324.596L1231.28,172.231C1231.28,149.442 1353.68,130.941 1504.43,130.941L2050.72,130.941C2201.47,130.941 2323.86,149.442 2323.86,172.231Z" style="fill:rgb(255,212,121);stroke:black;stroke-width:0.46px;"/>
+            </g>
+            <g transform="matrix(1.00193,0,0,0.644717,574.85,4062.64)">
+                <g transform="matrix(37.5,0,0,37.5,3091.35,249.255)">
+                </g>
+                <text x="2162.75px" y="249.255px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:37.5px;">ACCESS EXECUTION ST<tspan x="2603.78px 2630.86px " y="249.255px 249.255px ">AC</tspan>K  (Post Decision Paths)</text>
+            </g>
+            <g transform="matrix(1.00193,0,0,0.644717,686.35,4041.99)">
+                <g transform="matrix(29.1667,0,0,29.1667,2234.22,342.96)">
+                </g>
+                <g transform="matrix(29.1667,0,0,29.1667,2242.33,342.96)">
+                </g>
+                <text x="2145.06px" y="342.96px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">These ﬂows are activated after access logic is evaluated.</text>
+                <g transform="matrix(29.1667,0,0,29.1667,2820.28,373.081)">
+                </g>
+                <g transform="matrix(29.1667,0,0,29.1667,2828.38,373.081)">
+                </g>
+                <text x="2105.34px" y="373.081px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">They handle gating outcomes like Magic Link email veriﬁcation,</text>
+                <text x="2066.47px" y="403.201px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">supporter subscription prompts, and temporary access previews from</text>
+                <text x="2431.2px" y="433.322px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">shared links.</text>
+                <g transform="matrix(29.1667,0,0,29.1667,2874.88,463.443)">
+                </g>
+                <text x="2151.25px" y="463.443px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Successful completion updates the user<tspan x="2667.91px 2673.86px 2688.44px " y="463.443px 463.443px 463.443px ">’s </tspan>session state.</text>
+            </g>
+        </g>
+        <g id="_6.--USER-VERIFICATION-CHECK-" serif:id="6.  USER VERIFICATION CHECK " transform="matrix(0.450616,0,0,0.299511,1956.86,5147.37)">
+            <g transform="matrix(0.767701,0,0,1.18157,271.897,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2283.35,365.886 2233.46,365.886L1321.68,365.886C1271.79,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1271.79,130.941 1321.68,130.941L2233.46,130.941C2283.35,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:9px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,885.802,194.716)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">CHECK USER VERIFICA<tspan x="2310.32px 2364.93px " y="267.086px 267.086px ">TI</tspan>ON</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2570.56,356.48)">
+                    </g>
+                    <g transform="matrix(89.394,0,0,89.394,2595.39,356.48)">
+                    </g>
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– Has user completed email veriﬁcation?</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="445.874px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-109.372,0)">
+                    <text x="1376.69px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">If yes, continue</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="535.268px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-109.372,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2529.43,535.268)">
+                    </g>
+                    <text x="1376.69px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">If no, show Magic Link modal</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">6a. USER VERIFICA<tspan x="2013.58px 2044.12px " y="216.166px 216.166px ">TI</tspan>ON (Image)</text>
+            </g>
+        </g>
+        <g id="_6b.--USER-VERIFICATION-CHECK-" serif:id="6b.  USER VERIFICATION CHECK " transform="matrix(0.450616,0,0,0.299511,1956.86,5977.83)">
+            <g transform="matrix(0.767701,0,0,1.19039,271.897,13.6067)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2283.05,365.886 2232.78,365.886L1322.36,365.886C1272.09,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1272.09,130.941 1322.36,130.941L2232.78,130.941C2283.05,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear4);stroke:black;stroke-width:8.95px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,897.082,244.242)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">CHECK USER VERIFICA<tspan x="2310.32px 2364.93px " y="267.086px 267.086px ">TI</tspan>ON</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2570.56,356.48)">
+                    </g>
+                    <g transform="matrix(89.394,0,0,89.394,2595.39,356.48)">
+                    </g>
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– Has user completed email veriﬁcation?</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="445.874px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-109.372,0)">
+                    <text x="1376.69px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">If yes, continue</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="535.268px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-109.372,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2529.43,535.268)">
+                    </g>
+                    <text x="1376.69px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">If no, show Magic Link modal</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">6b USER VERIFICA<tspan x="2002.42px 2032.96px " y="216.166px 216.166px ">TI</tspan>ON</text>
+                <text x="1547.73px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">(narration/ overlay/ about)</text>
+            </g>
+        </g>
+        <g id="_9b.-SUBSCRIPTION-CHECK" serif:id="9b. SUBSCRIPTION CHECK" transform="matrix(0.450616,0,0,0.299511,1956.86,5614.25)">
+            <g transform="matrix(0.678955,0,0,1.18157,381.168,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2278.06,365.886 2221.64,365.886L1333.5,365.886C1277.09,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1277.09,130.941 1333.5,130.941L2221.64,130.941C2278.06,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:9.31px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,885.802,194.716)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">CHECK SUBSCRIPTION ST<tspan x="2434.46px 2487.49px 2542.1px " y="267.086px 267.086px 267.086px ">ATU</tspan>S</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– If supporter access is required:</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1368.19px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">• If subscribed</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-162.584,0)">
+                    <text x="2009.56px" y="445.874px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-167.29,0)">
+                    <text x="2092.57px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">unlock content</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1368.19px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">• If not</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-135.646,0)">
+                    <text x="1676.6px" y="535.268px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-140.353,0)">
+                    <text x="1759.61px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">prompt upgrade</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,1368.24,624.662)">
+                    </g>
+                    <text x="1293.68px" y="624.662px" style="font-family:'Helvetica';font-size:89.394px;">–</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(50,0,0,50,2203.35,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">9b. SUBSCRIPTION CHECK</text>
+            </g>
+        </g>
+        <g id="_12b.-PROMPT-UPGRADE-" serif:id="12b. PROMPT UPGRADE " transform="matrix(0.450616,0,0,0.299511,2460.94,4735.07)">
+            <g transform="matrix(0.69724,0,0,1.14868,358.654,19.0675)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2280.5,365.886 2227.09,365.886L1328.05,365.886C1274.64,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1274.64,130.941 1328.05,130.941L2227.09,130.941C2280.5,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:9.44px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,891.355,256.425)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">a lovely message explaining data costs and that</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,3082.61,356.48)">
+                    </g>
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">a donation is reqiuired to access this content</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">12b. PROMPT UPGRADE</text>
+                <text x="1578.31px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">(For Non-Subscribers)</text>
+            </g>
+        </g>
+        <g id="_7.-SEND-MAGIC-LINK-" serif:id="7. SEND MAGIC LINK " transform="matrix(0.450616,0,0,0.299511,2460.94,5231.39)">
+            <g transform="matrix(0.57777,0,0,1.18157,505.756,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2270.04,365.886 2203.74,365.886L1351.4,365.886C1285.11,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1285.11,130.941 1351.4,130.941L2203.74,130.941C2270.04,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:9.64px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,908.227,242.7)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">SEND MAGIC LINK (UI Layer)</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– User enters email</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– Sends auth link to email</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2441.57,535.268)">
+                    </g>
+                    <text x="1293.68px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">– Includes redirect to content</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1554.2px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">7a. SEND MAGIC LINK</text>
+                <text x="1547.73px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">EMAIL<tspan x="1702.37px 1716.26px " y="267.802px 267.802px "> S</tspan>UBSCRIPTION</text>
+            </g>
+        </g>
+        <g id="_8.-MAGIC-LINK-CLICKED" serif:id="8. MAGIC LINK CLICKED" transform="matrix(0.450616,0,0,0.299511,2965.03,5172.93)">
+            <g transform="matrix(0.649226,0,0,0.931783,417.773,47.4685)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2286.09,365.886 2239.56,365.886L1315.58,365.886C1269.06,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1269.06,130.941 1315.58,130.941L2239.56,130.941C2286.09,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:11.17px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,885.802,194.716)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">USER CLICKS MAGIC LINK</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,1522.32,356.48)">
+                    </g>
+                    <g transform="matrix(89.394,0,0,89.394,1547.15,356.48)">
+                    </g>
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– V<tspan x="1422.97px 1472.69px " y="356.48px 356.48px ">er</tspan>iﬁes identity</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2297.44,445.874)">
+                    </g>
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– Returns user to content</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(50,0,0,50,2164.43,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">8a. MAGIC LINK CLICKED</text>
+            </g>
+        </g>
+        <g id="_7.5.-MAGIC-LINK-ERROR" serif:id="7.5. MAGIC LINK ERROR" transform="matrix(0.450616,0,0,0.299511,2965.03,5298.65)">
+            <g transform="matrix(0.57777,0,0,1.18157,505.756,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2270.04,365.886 2203.74,365.886L1351.4,365.886C1285.11,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1285.11,130.941 1351.4,130.941L2203.74,130.941C2270.04,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(0,181,255);stroke:black;stroke-width:9.64px;"/>
+            </g>
+            <g transform="matrix(0.0183068,0,0,0.0202076,1239.05,289.162)">
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1303.25px" y="267.086px" style="font-family:'Helvetica';font-size:1357.4px;fill:rgb(14,14,14);"><tspan x="1303.25px 1778.47px 2554.13px " y="267.086px 267.086px 267.086px ">• E</tspan>mail not sent / user didn’t click / expired</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1303.25px" y="3263.07px" style="font-family:'Helvetica';font-size:1357.4px;fill:rgb(14,14,14);"><tspan x="1303.25px 1778.47px 2554.13px " y="3263.07px 3263.07px 3263.07px ">• S</tspan>how retry message</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(1357.4,0,0,1357.4,18927.8,6259.04)">
+                    </g>
+                    <text x="1303.25px" y="6259.04px" style="font-family:'Helvetica';font-size:1357.4px;fill:rgb(14,14,14);"><tspan x="1303.25px 1778.47px 2554.13px " y="6259.04px 6259.04px 6259.04px ">• O</tspan>ption to resend or contact</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-312.481,18.8331)">
+                <g transform="matrix(50,0,0,50,2164.48,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">7.5a. MAGIC LINK ERROR</text>
+            </g>
+        </g>
+        <g id="_9.-SUBSCRIPTION-CHECK" serif:id="9. SUBSCRIPTION CHECK" transform="matrix(0.450616,0,0,0.299511,1956.86,4870.46)">
+            <g transform="matrix(0.678955,0,0,1.18157,381.168,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2278.06,365.886 2221.64,365.886L1333.5,365.886C1277.09,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1277.09,130.941 1333.5,130.941L2221.64,130.941C2278.06,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:9.31px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,885.802,194.716)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">CHECK SUBSCRIPTION ST<tspan x="2434.46px 2487.49px 2542.1px " y="267.086px 267.086px 267.086px ">ATU</tspan>S</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– If supporter access is required:</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1368.19px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">• If subscribed</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-162.584,0)">
+                    <text x="2009.56px" y="445.874px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-167.29,0)">
+                    <text x="2092.57px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">unlock content</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1368.19px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">• If not</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-135.646,0)">
+                    <text x="1676.6px" y="535.268px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:89.394px;">→</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-140.353,0)">
+                    <text x="1759.61px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">prompt upgrade</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,1368.24,624.662)">
+                    </g>
+                    <text x="1293.68px" y="624.662px" style="font-family:'Helvetica';font-size:89.394px;">–</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(50,0,0,50,2200.61,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">9a. SUBSCRIPTION CHECK</text>
+            </g>
+        </g>
+        <g id="_12.-PROMPT-UPGRADE-" serif:id="12. PROMPT UPGRADE " transform="matrix(0.450616,0,0,0.299511,2460.94,5488.47)">
+            <g transform="matrix(0.69724,0,0,1.14868,358.654,19.0675)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2280.5,365.886 2227.09,365.886L1328.05,365.886C1274.64,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1274.64,130.941 1328.05,130.941L2227.09,130.941C2280.5,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:9.44px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,891.355,256.425)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">a lovely message explaining data costs and that</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,3062.75,356.48)">
+                    </g>
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">a donation is required to access this content</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1532.46px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">12b. PROMPT UPGRADE</text>
+                <text x="1563.04px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">(For Non-Subscribers)</text>
+            </g>
+        </g>
+        <g id="_7b.-SEND-MAGIC-LINK-" serif:id="7b. SEND MAGIC LINK " transform="matrix(0.450616,0,0,0.299511,2460.94,5991.59)">
+            <g transform="matrix(0.57777,0,0,1.18157,505.756,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2270.04,365.886 2203.74,365.886L1351.4,365.886C1285.11,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1285.11,130.941 1351.4,130.941L2203.74,130.941C2270.04,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear5);stroke:black;stroke-width:9.64px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,909.776,241.926)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">SEND MAGIC LINK (UI Layer)</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– User enters email</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– Sends auth link to email</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2441.57,535.268)">
+                    </g>
+                    <text x="1293.68px" y="535.268px" style="font-family:'Helvetica';font-size:89.394px;">– Includes redirect to content</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1552.84px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">7b. SEND MAGIC LINK</text>
+                <text x="1547.73px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">EMAIL<tspan x="1702.37px 1716.26px " y="267.802px 267.802px "> S</tspan>UBSCRIPTION</text>
+            </g>
+        </g>
+        <g id="_8b.-MAGIC-LINK-CLICKED" serif:id="8b. MAGIC LINK CLICKED" transform="matrix(0.450616,0,0,0.299511,2965.03,6028.33)">
+            <g transform="matrix(0.649226,0,0,0.931783,417.773,47.4685)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2286.09,365.886 2239.56,365.886L1315.58,365.886C1269.06,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1269.06,130.941 1315.58,130.941L2239.56,130.941C2286.09,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear6);stroke:black;stroke-width:11.17px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,885.802,194.716)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">USER CLICKS MAGIC LINK</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,1522.32,356.48)">
+                    </g>
+                    <g transform="matrix(89.394,0,0,89.394,1547.15,356.48)">
+                    </g>
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– V<tspan x="1422.97px 1472.69px " y="356.48px 356.48px ">er</tspan>iﬁes identity</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2297.44,445.874)">
+                    </g>
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">– Returns user to content</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(50,0,0,50,2167.17,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">8b. MAGIC LINK CLICKED</text>
+            </g>
+        </g>
+        <g id="_14.-JOURNEY-ACCESS-via--DEEP-LINK" serif:id="14. JOURNEY ACCESS via  DEEP LINK" transform="matrix(0.450616,0,0,0.299511,2446.07,6187.65)">
+            <g transform="matrix(0.90421,0,0,2.42288,136.809,-147.777)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2253.34,365.886 2166.47,365.886L1388.67,365.886C1301.81,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1301.81,130.941 1388.67,130.941L2166.47,130.941C2253.34,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(130,230,85);stroke:black;stroke-width:4.9px;"/>
+            </g>
+            <g transform="matrix(0.107476,0,0,0.118635,1139.91,340.354)">
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);">If deep link includes journey_id, highlight, or hotspot_id,</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(289.815,0,0,289.815,4580,658.337)">
+                    </g>
+                    <g transform="matrix(289.815,0,0,289.815,4660.52,658.337)">
+                    </g>
+                    <text x="1293.68px" y="658.337px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);">and override access is deﬁned:</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1482.03px" y="1049.59px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);"><tspan x="1482.03px 1583.5px 2047.2px " y="1049.59px 1049.59px 1049.59px ">• N</tspan>arration/media will be granted per override conditions</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(289.815,0,0,289.815,4737.19,1440.84)">
+                    </g>
+                    <g transform="matrix(289.815,0,0,289.815,4817.71,1440.84)">
+                    </g>
+                    <text x="1482.03px" y="1440.84px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);"><tspan x="1482.03px 1583.5px 2047.2px " y="1440.84px 1440.84px 1440.84px ">• S</tspan>ession must be veriﬁed (via Magic Link)</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1482.03px" y="1832.09px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);"><tspan x="1482.03px 1583.5px 2047.2px " y="1832.09px 1832.09px 1832.09px ">• O</tspan>ptional expiry (access_expiry_date) controls visibility</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1482.03px" y="2223.34px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);"><tspan x="1482.03px 1583.5px 2047.2px " y="2223.34px 2223.34px 2223.34px ">• H</tspan>otspot overrides may be generated via user sharing</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="2047.2px" y="2614.59px" style="font-family:'Helvetica';font-size:289.815px;fill:rgb(14,14,14);"><tspan x="2047.2px " y="2614.59px ">(</tspan>see Box 15B)</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,0.981842,-295.313,22.7698)">
+                <text x="1662.05px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">14. JOURNEY<tspan x="1986.27px 2000.16px " y="216.166px 216.166px "> /</tspan> HOTSPOT</text>
+                <text x="1680.11px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">ACCESS via DEEP<tspan x="2121.02px 2134.92px " y="267.802px 267.802px "> L</tspan>INK</text>
+            </g>
+        </g>
+        <g id="_7.5.-MAGIC-LINK-ERROR1" serif:id="7.5. MAGIC LINK ERROR" transform="matrix(0.450616,0,0,0.299511,2965.03,5930.13)">
+            <g transform="matrix(0.57777,0,0,1.18157,505.756,14.7611)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2270.04,365.886 2203.74,365.886L1351.4,365.886C1285.11,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1285.11,130.941 1351.4,130.941L2203.74,130.941C2270.04,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:url(#_Linear7);stroke:black;stroke-width:9.64px;"/>
+            </g>
+            <g transform="matrix(0.0183068,0,0,0.0202076,1239.05,289.162)">
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1303.25px" y="267.086px" style="font-family:'Helvetica';font-size:1357.4px;fill:rgb(14,14,14);"><tspan x="1303.25px 1778.47px 2554.13px " y="267.086px 267.086px 267.086px ">• E</tspan>mail not sent / user didn’t click / expired</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1303.25px" y="3263.07px" style="font-family:'Helvetica';font-size:1357.4px;fill:rgb(14,14,14);"><tspan x="1303.25px 1778.47px 2554.13px " y="3263.07px 3263.07px 3263.07px ">• S</tspan>how retry message</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(1357.4,0,0,1357.4,18927.8,6259.04)">
+                    </g>
+                    <text x="1303.25px" y="6259.04px" style="font-family:'Helvetica';font-size:1357.4px;fill:rgb(14,14,14);"><tspan x="1303.25px 1778.47px 2554.13px " y="6259.04px 6259.04px 6259.04px ">• O</tspan>ption to resend or contact</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-312.481,18.8331)">
+                <g transform="matrix(50,0,0,50,2167.22,216.166)">
+                </g>
+                <text x="1547.73px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">7.5b. MAGIC LINK ERROR</text>
+            </g>
+        </g>
+        <g transform="matrix(0.298049,0.000234862,-0.000881661,0.494298,1458.37,4398.34)">
+            <path d="M-675.784,1400.52L-675.784,1392.99L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-675.784,1400.52Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.298049,0.000234862,-0.000881661,0.494298,1458.37,5163.34)">
+            <path d="M-675.784,1400.52L-675.784,1392.99L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-675.784,1400.52Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.298049,0.000234862,-0.000881661,0.494298,1484.96,4731.67)">
+            <path d="M-774.802,1400.57L-774.802,1393.04L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-774.802,1400.57Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.298049,0.000234862,-0.000881661,0.494298,1484.96,5525.06)">
+            <path d="M-774.802,1400.57L-774.802,1393.04L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-774.802,1400.57Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.282421,-0.0633073,0.237652,0.468379,2822.72,5445.55)">
+            <path d="M526.642,1401.09L526.642,1393.57L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L526.642,1401.09Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(-0.24442,0.113369,-0.425582,-0.405357,4213.74,6658.17)">
+            <path d="M439.408,1401.35L439.408,1393.82L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L439.408,1401.35Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.292937,0.0365331,-0.137143,0.48582,3330.18,5396.45)">
+            <path d="M564.932,1400.98L564.932,1393.46L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L564.932,1400.98Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g id="if-gated" serif:id="if gated" transform="matrix(0.743674,0,0,0.494298,2149.97,4883.66)">
+            <g transform="matrix(1,0,0,1,48.9888,4.77817)">
+                <g transform="matrix(28.619,0,0,28.619,524.371,555.908)">
+                </g>
+                <text x="352.657px" y="555.908px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">if = gated</text>
+            </g>
+            <g transform="matrix(0.32807,0.230204,-0.574391,0.818581,844.821,-710.704)">
+                <path d="M177.501,1402.11L177.501,1394.58L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L177.501,1402.11Z" style="stroke:black;stroke-width:1.71px;"/>
+            </g>
+        </g>
+        <g id="if---supporter" serif:id="if = supporter" transform="matrix(0.37616,-0.426403,0.641525,0.250023,1829.09,5210.59)">
+            <g transform="matrix(0.45008,0.218382,-0.436534,0.899688,938.093,-1018.12)">
+                <path d="M385.768,1393.03L385.768,1385.51L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L385.768,1393.03Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.895151,0.445764,-0.445764,0.895151,108.769,-373.026)">
+                <g transform="matrix(28.619,0,0,28.619,991.035,423.46)">
+                </g>
+                <text x="839.109px" y="423.46px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">if=supporter</text>
+            </g>
+            <g transform="matrix(0.256584,0.42945,-0.858449,0.512899,1424.97,2272.2)">
+                <path d="M-4314.84,1375.75L-4314.84,1368.23L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-4314.84,1375.75Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+        </g>
+        <g id="IF--FREE" serif:id="IF= FREE" transform="matrix(0.743674,0,0,0.494298,2550.99,4777.93)">
+            <g transform="matrix(0.500245,-0.00411913,0.00823394,0.999966,1686.27,-742.823)">
+                <path d="M-4267.59,1376.16L-4267.59,1368.64L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-4267.59,1376.16Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-1166.75,-56.0496)">
+                <text x="857.75px" y="687.541px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">if = free</text>
+            </g>
+        </g>
+        <g id="no" transform="matrix(0.743674,0,0,0.494298,2709.36,4867.92)">
+            <g transform="matrix(0.391075,0.311966,-0.623605,0.78174,764.784,-573.465)">
+                <path d="M923.136,1399.94L923.136,1392.42L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L923.136,1399.94Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.38171,0.323358,-0.646376,0.763019,-2029.06,403.218)">
+                <path d="M575.901,1385.56L575.901,1378.04L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L575.901,1385.56Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,90.4153,-52.7351)">
+                <text x="242.622px" y="894.451px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">No</text>
+            </g>
+        </g>
+        <g id="yes" transform="matrix(0.743674,0,0,0.494298,2796.74,4721.9)">
+            <g transform="matrix(0.488335,-0.108586,0.217058,0.976159,1069.5,-434.62)">
+                <path d="M-2451.77,1203.08L-2451.77,1195.55L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-2451.77,1203.08Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-66.8101,55.8271)">
+                <g transform="matrix(28.619,0,0,28.619,289.309,894.451)">
+                </g>
+                <text x="242.622px" y="894.451px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">Y<tspan x="259.083px 275px " y="894.451px 894.451px ">es</tspan></text>
+            </g>
+        </g>
+        <g id="yes1" serif:id="yes" transform="matrix(0.743674,0,0,0.494298,2792.52,5548.31)">
+            <g transform="matrix(0.477545,-0.149041,0.297925,0.954589,1011.74,-498.249)">
+                <path d="M-2575.41,1196.41L-2575.41,1188.89L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-2575.41,1196.41Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.977572,-0.210603,0.210603,0.977572,-268.99,179.038)">
+                <g transform="matrix(28.619,0,0,28.619,289.309,894.451)">
+                </g>
+                <text x="242.622px" y="894.451px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">Y<tspan x="259.083px 275px " y="894.451px 894.451px ">es</tspan></text>
+            </g>
+        </g>
+        <g transform="matrix(0.279259,-0.0692275,0.259876,0.463135,2792.42,4698.48)">
+            <path d="M522.331,1400.28L522.331,1392.75L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L522.331,1400.28Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.273392,0.0788976,-0.296177,0.453406,3570.26,4657.52)">
+            <path d="M554.65,1401.01L554.65,1393.49L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L554.65,1401.01Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.256223,-0.101203,0.379911,0.424931,3430.96,4656.56)">
+            <path d="M-356.32,1340.39L-356.32,1332.87L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-356.32,1340.39Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(0.217133,-0.135708,0.50944,0.360103,3315.14,5572.57)">
+            <path d="M-2267.93,1267.54L-2267.93,1260.01L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-2267.93,1267.54Z" style="stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g id="Unsubscribed" transform="matrix(0.34449,-0.438067,0.659073,0.228973,2209.32,5081.14)">
+            <g transform="matrix(0.469138,0.1737,-0.347218,0.937784,823.183,-819.186)">
+                <path d="M713.67,1403.22L713.67,1395.7C790.523,1395.11 1109.2,1392.24 1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L713.67,1403.22Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.938726,0.344663,-0.344663,0.938726,11.2504,-470.005)">
+                <g transform="matrix(28.619,0,0,28.619,1176.28,771.449)">
+                </g>
+                <text x="1001.29px" y="771.449px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">Unsubscribed</text>
+            </g>
+        </g>
+        <g id="subscribed" transform="matrix(0.743674,0,0,0.494298,2538.08,4567.91)">
+            <g transform="matrix(0.495653,0.0677502,-0.135429,0.990787,1903.15,-437.658)">
+                <path d="M-2581.18,1440.24L-2581.18,1432.71L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-2581.18,1440.24Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.995404,0.0957597,-0.0957597,0.995404,-491.379,-69.0737)">
+                <g transform="matrix(28.619,0,0,28.619,1144.47,771.449)">
+                </g>
+                <text x="1001.29px" y="771.449px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">Subscribed</text>
+            </g>
+        </g>
+        <g id="subscribed1" serif:id="subscribed" transform="matrix(0.743674,0,0,0.494298,2564.85,5317.5)">
+            <g transform="matrix(0.495237,0.0707271,-0.14138,0.989955,1900.24,-433.401)">
+                <path d="M-2648.14,1439.66L-2648.14,1432.13L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-2648.14,1439.66Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.993736,0.111751,-0.111751,0.993736,-501.13,-86.235)">
+                <g transform="matrix(28.619,0,0,28.619,1144.47,771.449)">
+                </g>
+                <text x="1001.29px" y="771.449px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">Subscribed</text>
+            </g>
+        </g>
+        <g transform="matrix(0.621746,-0.283295,0.420487,0.407699,1155.51,5032.04)">
+            <path d="M732.161,1400.05L732.161,1392.53L1173.84,1393.96L1173.06,1383.18L1196.66,1395.41L1174.39,1411.96L1173.84,1401.49L732.161,1400.05Z" style="stroke:black;stroke-width:1.3px;"/>
+        </g>
+        <g transform="matrix(0.743674,-3.5789e-17,5.38447e-17,0.494298,1944.33,4971.6)">
+            <text x="534.657px" y="761.542px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Deep link to artwork</text>
+            <g transform="matrix(29.1667,0,0,29.1667,700.002,791.662)">
+            </g>
+            <text x="534.657px" y="791.662px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">(piece level)</text>
+        </g>
+        <g id="ACCESS-CONTROL-FIELDS" serif:id="ACCESS CONTROL FIELDS" transform="matrix(0.450616,0,0,0.299511,811.01,5111.63)">
+            <g transform="matrix(0.683649,0,0,1.53561,375.388,-31.5972)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2264.74,365.886 2191.93,365.886L1363.22,365.886C1290.4,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1290.4,130.941 1363.22,130.941L2191.93,130.941C2264.74,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:7.55px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,871.629,240.668)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">– images_access</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">Each accepts: free, gated, supporter</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2372,445.874)">
+                    </g>
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">Evaluated per user session</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="216.166px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">ACCESS CONTROL<tspan x="1998.84px 2012.21px " y="216.166px 216.166px "> F</tspan>IELDS</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="264.301px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">(FROM GALLER<tspan x="1914.95px 1946.21px 1959.59px " y="264.301px 264.301px 264.301px ">Y M</tspan>ANIFEST)</text>
+                </g>
+            </g>
+        </g>
+        <g id="ACCESS-CONTROL-FIELDS1" serif:id="ACCESS CONTROL FIELDS" transform="matrix(0.450616,0,0,0.299511,811.01,6021.46)">
+            <g transform="matrix(0.683649,0,0,1.53561,375.388,-31.5972)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2264.74,365.886 2191.93,365.886L1363.22,365.886C1290.4,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1290.4,130.941 1363.22,130.941L2191.93,130.941C2264.74,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:7.55px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,871.629,240.668)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">– images_access</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">Each accepts: free, gated, supporter</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <g transform="matrix(89.394,0,0,89.394,2372,445.874)">
+                    </g>
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">Evaluated per user session</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="216.166px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">ACCESS CONTROL<tspan x="1998.84px 2012.21px " y="216.166px 216.166px "> F</tspan>IELDS</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="264.301px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">(FROM GALLER<tspan x="1914.95px 1946.21px 1959.59px " y="264.301px 264.301px 264.301px ">Y M</tspan>ANIFEST)</text>
+                </g>
+            </g>
+        </g>
+        <g id="ACCESS-CONTROL-FIELDS2" serif:id="ACCESS CONTROL FIELDS" transform="matrix(0.450616,0,0,0.299511,811.01,5644.82)">
+            <g transform="matrix(0.683649,0,0,1.53561,375.388,-31.5972)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2264.74,365.886 2191.93,365.886L1363.22,365.886C1290.4,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1290.4,130.941 1363.22,130.941L2191.93,130.941C2264.74,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:7.55px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,975.235,264.247)">
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:158.504px;fill:rgb(14,14,14);">• <tspan x="1443.45px " y="267.086px ">n</tspan>arration_access</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="430.187px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:158.504px;fill:rgb(14,14,14);">• <tspan x="1443.45px " y="430.187px ">o</tspan>verlay_access</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(158.504,0,0,158.504,2429.82,593.287)">
+                    </g>
+                    <text x="1293.68px" y="593.287px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:158.504px;fill:rgb(14,14,14);">• <tspan x="1443.45px " y="593.287px ">a</tspan>bout_access</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="216.166px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">ACCESS CONTROL<tspan x="1998.84px 2012.21px " y="216.166px 216.166px "> F</tspan>IELDS</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="264.301px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">(FROM GALLER<tspan x="1914.95px 1946.21px 1959.59px " y="264.301px 264.301px 264.301px ">Y M</tspan>ANIFEST)</text>
+                </g>
+            </g>
+        </g>
+        <g id="if-gated1" serif:id="if gated" transform="matrix(0.743674,0,0,0.494298,2200.61,5646.45)">
+            <g transform="matrix(0.749931,0.661516,-0.661516,0.749931,192.502,-172.842)">
+                <text x="352.657px" y="555.908px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">if narration/overlay_access = gated</text>
+                <text x="376.511px" y="585.464px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">verify email</text>
+            </g>
+            <g transform="matrix(1.30431,0,0,1.30431,-2671.3,-2841.1)">
+                <text x="2703.06px" y="3208.71px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">if override found,</text>
+                <text x="2703.06px" y="3231.37px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">grant access</text>
+            </g>
+            <g transform="matrix(0.294383,0.27196,-0.678579,0.734527,964.07,-551.266)">
+                <path d="M53.439,1402.47L53.439,1394.94L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L53.439,1402.47Z" style="stroke:black;stroke-width:1.71px;"/>
+            </g>
+            <g transform="matrix(0.358731,0.178707,-0.445898,0.895084,570.341,-95.7051)">
+                <path d="M178.924,1402.1L178.924,1394.58L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L178.924,1402.1Z" style="stroke:black;stroke-width:1.71px;"/>
+            </g>
+            <g transform="matrix(0.400779,0,7.97973e-17,1,584.044,-2.39175)">
+                <path d="M670.862,1399.76L670.862,1392.23L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L670.862,1399.76Z" style="stroke:black;stroke-width:1.71px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.743139,0.0187444,-0.028201,0.493943,1657.62,5488.57)">
+            <g id="if-free" serif:id="if=free">
+                <text x="857.75px" y="687.541px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">if = free</text>
+            </g>
+        </g>
+        <g transform="matrix(0.32421,-0.121283,0.364751,0.43076,1573.58,5269.19)">
+            <path d="M437.252,1393.43L437.252,1385.9L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L437.252,1393.43Z" style="stroke:black;stroke-width:1.65px;"/>
+        </g>
+        <g transform="matrix(0.303399,-0.143108,0.430387,0.403109,3307.72,5500.9)">
+            <path d="M-197.131,1399.97L-197.131,1392.45L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-197.131,1399.97Z" style="stroke:black;stroke-width:1.65px;"/>
+        </g>
+        <g transform="matrix(0.627924,-0.264838,0.39845,0.417363,1606,5820.37)">
+            <g transform="matrix(28.619,0,0,28.619,991.035,423.46)">
+            </g>
+            <text x="839.109px" y="423.46px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">if=supporter</text>
+        </g>
+        <g transform="matrix(0.783955,-0.379663,0.571206,0.521072,-837.649,5873.83)">
+            <text x="3204.97px" y="2999.66px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">If arrived through</text>
+            <g transform="matrix(21.9419,0,0,21.9419,3292.81,3022.32)">
+            </g>
+            <text x="3204.97px" y="3022.32px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">deep link</text>
+        </g>
+        <g transform="matrix(0.775846,-0.386952,0.582172,0.515682,-658.207,5957.26)">
+            <g transform="matrix(21.9419,0,0,21.9419,3418.38,2999.66)">
+            </g>
+            <text x="3204.97px" y="2999.66px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.942px;">User has access level</text>
+        </g>
+        <g transform="matrix(0.743673,-0.00092329,0.00138909,0.494297,1881.47,6044.79)">
+            <text x="839.109px" y="423.46px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">W<tspan x="865.604px 875.134px " y="423.46px 423.46px ">ri</tspan>tes override to</text>
+            <g transform="matrix(28.619,0,0,28.619,947.31,453.016)">
+            </g>
+            <text x="839.109px" y="453.016px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">backend</text>
+        </g>
+        <g id="Unsubscribed1" serif:id="Unsubscribed" transform="matrix(0.743674,0,0,0.494298,2361.68,5275.38)">
+            <g transform="matrix(0.394612,-0.30748,0.614638,0.788809,-495.406,-51.1023)">
+                <path d="M747.612,1403.81L747.612,1396.28L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L747.612,1403.81Z" style="stroke:black;stroke-width:1.65px;"/>
+            </g>
+            <g transform="matrix(0.999953,0.00965558,-0.00965558,0.999953,-378.887,-94.0006)">
+                <g transform="matrix(28.619,0,0,28.619,1176.28,771.449)">
+                </g>
+                <text x="1001.29px" y="771.449px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">Unsubscribed</text>
+            </g>
+        </g>
+        <g id="Hotspot-ACCESS-CONTROL-" serif:id="Hotspot ACCESS CONTROL " transform="matrix(0.450616,0,0,0.299511,827.834,5837.48)">
+            <g transform="matrix(0.650845,0,0,1.93164,415.779,-83.4533)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2245.75,365.886 2149.54,365.886L1405.61,365.886C1309.4,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1309.4,130.941 1405.61,130.941L2149.54,130.941C2245.75,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:6.22px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,871.629,240.668)">
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:89.394px;">– narration_access</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="356.48px" style="font-family:'Helvetica';font-size:89.394px;">– overlay_access</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="445.874px" style="font-family:'Helvetica';font-size:89.394px;">- about_access</text>
+                </g>
+                <g transform="matrix(1.08091,0,0,1,-104.666,0)">
+                    <text x="1293.68px" y="624.662px" style="font-family:'Helvetica';font-size:89.394px;">Each accepts: free, gated, supporter</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="725.932px" style="font-family:'Helvetica';font-size:101.269px;">If blank</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-174.975,0)">
+                    <text x="1685.15px" y="725.932px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:101.269px;">→</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-186.582,0)">
+                    <text x="1825.07px" y="725.932px" style="font-family:'Helvetica';font-size:101.269px;">inherits value from</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="827.201px" style="font-family:'Helvetica';font-size:101.269px;">piece-level access Controlled</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(101.269,0,0,101.269,2160.41,928.47)">
+                    </g>
+                    <text x="1293.68px" y="928.47px" style="font-family:'Helvetica';font-size:101.269px;">by Gallery Manifest</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="216.166px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">ACCESS CONTROL<tspan x="1998.84px 2012.21px " y="216.166px 216.166px "> F</tspan>IELDS</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="264.301px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">(FROM HOTSPOT SHEET)</text>
+                </g>
+            </g>
+        </g>
+        <g id="Hotspot-ACCESS-CONTROL-1" serif:id="Hotspot ACCESS CONTROL " transform="matrix(0.450616,0,0,0.299511,816.934,6206.47)">
+            <g transform="matrix(0.650845,0,0,2.78187,415.779,-194.783)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2211.37,365.886 2072.81,365.886L1482.34,365.886C1343.78,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1343.78,130.941 1482.34,130.941L2072.81,130.941C2211.37,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:4.44px;"/>
+            </g>
+            <g transform="matrix(2.15256,0,0,2.15256,-1337.94,-7378.88)">
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3615.07px" style="font-family:'Helvetica';font-size:14.1px;">Fields:</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3629.17px" style="font-family:'Helvetica';font-size:14.1px;">hotspot_id</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3643.27px" style="font-family:'Helvetica';font-size:14.1px;">access_override_type: narration, image, narration_</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3657.37px" style="font-family:'Helvetica';font-size:14.1px;">plus_overlay</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3671.47px" style="font-family:'Helvetica';font-size:14.1px;">access_override_level: free, gated</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3685.57px" style="font-family:'Helvetica';font-size:14.1px;">access_expiry_date : ISO timestamp</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3699.67px" style="font-family:'Helvetica';font-size:14.1px;">max_uses (injected from global defaults — varies</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3713.77px" style="font-family:'Helvetica';font-size:14.1px;">by preview/full access)</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3727.87px" style="font-family:'Helvetica';font-size:14.1px;">source: e.g. ShareLink, EmailT<tspan x="1394.81px 1402.65px " y="3727.87px 3727.87px ">ea</tspan>ser<tspan x="1429.31px " y="3727.87px ">,</tspan></text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <text x="1203.59px" y="3741.97px" style="font-family:'Helvetica';font-size:14.1px;">HighlightJourney</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <g transform="matrix(14.0997,0,0,14.0997,1477.92,3756.07)">
+                    </g>
+                    <g transform="matrix(14.0997,0,0,14.0997,1481.83,3756.07)">
+                    </g>
+                    <text x="1203.59px" y="3756.07px" style="font-family:'Helvetica';font-size:14.1px;">shared_by_user_type: supporter<tspan x="1405.83px 1409.75px " y="3756.07px 3756.07px ">, </tspan>email_veriﬁed,</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.0005,0)">
+                    <g transform="matrix(14.0997,0,0,14.0997,1238.08,3770.17)">
+                    </g>
+                    <text x="1203.59px" y="3770.17px" style="font-family:'Helvetica';font-size:14.1px;">guest</text>
+                </g>
+            </g>
+            <g transform="matrix(2.15256,0,0,2.15256,-1337.94,-7378.88)">
+                <g transform="matrix(0.979228,0,0,1,25.1426,0)">
+                    <text x="1210.43px" y="3541.63px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22.362px;">ACCESS CONTROL</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.1426,0)">
+                    <text x="1210.43px" y="3563.99px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22.362px;">FIELDS (FROM HOTSPOT</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,25.1426,0)">
+                    <text x="1210.43px" y="3586.36px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22.362px;">OVERRIDE SHEET)</text>
+                </g>
+            </g>
+        </g>
+        <g id="Hotspot-ACCESS-CONTROL-2" serif:id="Hotspot ACCESS CONTROL " transform="matrix(0.450616,0,0,0.299511,1956.86,6228.27)">
+            <g transform="matrix(0.650845,0,0,1.53561,415.779,-31.5972)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2261.76,365.886 2185.28,365.886L1369.87,365.886C1293.38,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1293.38,130.941 1369.87,130.941L2185.28,130.941C2261.76,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(223,202,236);stroke:black;stroke-width:7.61px;"/>
+            </g>
+            <g transform="matrix(0.307577,0,0,0.339513,832.141,347.258)">
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:92.46px;">Stores dynamic overrides</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-256.834,0)">
+                    <text x="2473.51px" y="267.086px" style="font-family:'Helvetica';font-size:92.46px;fill:rgb(151,0,126);">for</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-269.201,0)">
+                    <text x="2618.31px" y="267.086px" style="font-family:'Helvetica';font-size:92.46px;">shared hotspot links</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(92.4605,0,0,92.4605,3097.52,359.547)">
+                    </g>
+                    <text x="1293.68px" y="359.547px" style="font-family:'Helvetica';font-size:92.46px;">Used to grant temporary access to narration</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-301.884,33.135)">
+                <g transform="matrix(0.979228,0,0,1,32.1488,0)">
+                    <text x="1547.73px" y="216.166px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">HOTSPOT OVERRIDE SHEET</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,34.2972,0)">
+                    <text x="1651.16px" y="264.301px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">TEMP<tspan x="1784.03px 1795.64px 1830.4px " y="264.301px 264.301px 264.301px "> AC</tspan>CESS FOR</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,34.1619,0)">
+                    <text x="1644.65px" y="312.436px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">NON-SUBSCRIBERS</text>
+                </g>
+                <g transform="matrix(0.979228,0,0,1,36.7994,0)">
+                    <g transform="matrix(48.1352,0,0,48.1352,1985.65,360.571)">
+                    </g>
+                    <text x="1771.63px" y="360.571px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:48.135px;">(Phase 2)</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.647611,0.246228,-2.1129,2.98157,7101,115.28)">
+            <path d="M1601.98,1959.09L1600.43,1816.21" style="fill:none;stroke:black;stroke-width:1.13px;stroke-dasharray:2.25,2.25,0,0,0,0;"/>
+        </g>
+        <g transform="matrix(-0.00150754,0.500621,-0.559652,-0.000744544,7073.57,4462.79)">
+            <g transform="matrix(0.767329,0.0531805,0.0521642,5.11169,2450.65,-3175.73)">
+                <path d="M1600.97,1865.93L1600.43,1816.21" style="fill:none;stroke:black;stroke-width:1.93px;stroke-dasharray:3.87,3.87,0,0,0,0;"/>
+            </g>
+            <g transform="matrix(1.27184,2.86229e-17,3.8088e-17,1.64978,-778.496,3129.41)">
+                <path d="M3578.68,1842.6L3589.49,1864.44L3567.87,1864.44L3578.68,1842.6Z"/>
+            </g>
+        </g>
+        <g transform="matrix(0.370365,-0.595869,0.993733,0.272874,-4159.33,6139.78)">
+            <g transform="matrix(2.72157,0.188621,0.185016,18.1302,-918.267,-27036.8)">
+                <path d="M1600.97,1865.93L1600.43,1816.21" style="fill:none;stroke:black;stroke-width:0.29px;stroke-dasharray:0.57,0.57,0,0,0,0;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,195.717,4326.92)">
+                <path d="M3578.68,1842.6L3589.49,1864.44L3567.87,1864.44L3578.68,1842.6Z"/>
+            </g>
+        </g>
+        <g transform="matrix(0.873246,0.280663,-0.422259,0.580421,1963.83,3837.1)">
+            <path d="M3578.68,1842.6L3589.49,1864.44L3567.87,1864.44L3578.68,1842.6Z"/>
+        </g>
+        <g transform="matrix(0.636927,0,0,0.423347,1823.55,4774.45)">
+            <text x="1201.52px" y="97.813px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">This subscription functionality</text>
+            <text x="1201.52px" y="132.237px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">would be built in phase 2.</text>
+            <g transform="matrix(33.3333,0,0,33.3333,1570.24,166.66)">
+            </g>
+            <g transform="matrix(33.3333,0,0,33.3333,1579.5,166.66)">
+            </g>
+            <g transform="matrix(33.3333,0,0,33.3333,1733.28,166.66)">
+            </g>
+            <text x="1201.52px" y="166.66px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Everything is free on the ﬁrst phase</text>
+        </g>
+        <g transform="matrix(0.372,0.00326337,-0.00981435,0.494255,2519.41,4119.68)">
+            <path d="M1010.69,1401.41L1010.69,1393.89L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L1010.69,1401.41Z" style="fill:rgb(150,222,238);stroke:black;stroke-width:1.65px;"/>
+        </g>
+        <g transform="matrix(-0.00163929,0.247276,-0.743667,-0.00217803,3770.59,4596.89)">
+            <path d="M1034.46,1400.78L1034.46,1393.25L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L1034.46,1400.78Z" style="fill:rgb(150,222,238);stroke:black;stroke-width:1.65px;"/>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,-53.7659,4581.3)">
+            <text x="351.002px" y="771.97px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:36.587px;">🔵</text>
+            <text x="397.753px" y="771.97px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">PHASE 1 - PIECES</text>
+            <text x="351.002px" y="809.753px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">ARE <tspan x="437.055px 463.477px " y="809.753px 809.753px ">AC</tspan>CESSED</text>
+            <text x="351.002px" y="847.537px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">THROUGH THE</text>
+            <text x="351.002px" y="885.321px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">WEBSITE GALLER<tspan x="676.888px " y="885.321px ">Y</tspan></text>
+            <text x="351.002px" y="923.104px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">OR THROUGH LINKS</text>
+            <text x="351.002px" y="960.888px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">T<tspan x="372.689px 401.148px 409.955px 435.019px 445.184px " y="960.888px 960.888px 960.888px 960.888px 960.888px ">O A P</tspan>IECE OR <tspan x="628.832px " y="960.888px ">A</tspan></text>
+            <text x="351.002px" y="998.671px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">SPECIFIC HOTSPOT</text>
+            <text x="351.002px" y="1074.24px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">EMAIL</text>
+            <text x="351.002px" y="1112.02px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">VERIFICA<tspan x="519.036px 541.385px " y="1112.02px 1112.02px ">TI</tspan>ON IS</text>
+            <text x="351.002px" y="1149.81px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">REQUIRED FOR</text>
+            <text x="351.002px" y="1187.59px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">GA<tspan x="403.166px 425.515px " y="1187.59px 1187.59px ">TE</tspan>D CONTENT</text>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,190.551,4721.18)">
+            <text x="88.637px" y="1786.03px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:36.587px;">🟢</text>
+            <text x="135.389px" y="1786.03px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">PHASE 2 -</text>
+            <text x="88.637px" y="1823.82px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">NARRA<tspan x="218.03px 240.379px " y="1823.82px 1823.82px ">TI</tspan>ON <tspan x="314.231px 340.653px " y="1823.82px 1823.82px ">AN</tspan>D</text>
+            <text x="88.637px" y="1861.6px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">OVERLA<tspan x="237.735px 261.477px 271.642px " y="1861.6px 1861.6px 1861.6px ">Y M</tspan>EDIA<tspan x="388.173px 396.98px 423.402px " y="1861.6px 1861.6px 1861.6px "> AR</tspan>E</text>
+            <text x="88.637px" y="1899.38px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">GA<tspan x="140.802px 163.15px " y="1899.38px 1899.38px ">TE</tspan>D</text>
+            <text x="88.637px" y="1937.17px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">BEHIND</text>
+            <text x="88.637px" y="1974.95px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">SUBSCRIPTION ON</text>
+            <text x="88.637px" y="2012.74px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">SELECTED PIECES.</text>
+            <text x="88.637px" y="2088.3px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">A<tspan x="113.701px 123.866px " y="2088.3px 2088.3px "> &quot;</tspan>NO <tspan x="204.9px 231.322px " y="2088.3px 2088.3px ">AC</tspan>CESS</text>
+            <text x="88.637px" y="2126.09px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">OVERRIDE&quot; OPTION</text>
+            <text x="88.637px" y="2163.87px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">ALLOWS NON-</text>
+            <text x="88.637px" y="2201.65px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">SUBSCRIBERS</text>
+            <text x="88.637px" y="2239.44px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">T<tspan x="110.325px 138.783px 147.59px 174.012px " y="2239.44px 2239.44px 2239.44px 2239.44px ">O AC</tspan>CESS SHARED</text>
+            <text x="88.637px" y="2277.22px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">HOTSPOTS FOR EMAIL</text>
+            <text x="88.637px" y="2315.01px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">CAPTURE <tspan x="274.286px 300.708px " y="2315.01px 2315.01px ">AN</tspan>D</text>
+            <text x="88.637px" y="2352.79px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">MARKETING.</text>
+            <text x="88.637px" y="2428.36px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">PHASE 2 <tspan x="254.01px 280.432px " y="2428.36px 2428.36px ">AC</tspan>TIV<tspan x="361.055px 384.761px 407.109px " y="2428.36px 2428.36px 2428.36px ">ATE</tspan>S</text>
+            <text x="88.637px" y="2466.14px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">ONCE HOSTING</text>
+            <text x="88.637px" y="2503.92px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">COSTS REACH</text>
+            <text x="88.637px" y="2541.71px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">PREDEFINED</text>
+            <text x="98.802px" y="2579.49px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">TRIGGER</text>
+            <g transform="matrix(36.5867,0,0,36.5867,340.689,2617.27)">
+            </g>
+            <text x="88.637px" y="2617.27px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:36.587px;">THRESHOLDS</text>
+        </g>
+        <g id="_11.-SESSION-CONTEXT---STATE-HANDLING-1" serif:id="11. SESSION CONTEXT/  STATE HANDLING " transform="matrix(0.450616,0,0,0.299511,3073.75,6220.84)">
+            <g transform="matrix(0.733798,0,0,1.85066,313.64,-72.8505)">
+                <path d="M2323.86,189.677L2323.86,307.15C2323.86,339.567 2257.48,365.886 2175.73,365.886L1379.42,365.886C1297.66,365.886 1231.28,339.567 1231.28,307.15L1231.28,189.677C1231.28,157.259 1297.66,130.941 1379.42,130.941L2175.73,130.941C2257.48,130.941 2323.86,157.259 2323.86,189.677Z" style="fill:rgb(235,235,235);stroke:black;stroke-width:9.56px;stroke-dasharray:19.11,19.11,0,0,0,0;"/>
+            </g>
+            <g transform="matrix(0.384067,0,0,0.423947,749.876,239.307)">
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="267.086px" style="font-family:'Helvetica';font-size:88.855px;">Hotspot override links may trigger:</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="355.942px" style="font-family:'Helvetica';font-size:88.855px;">• Immediate media playback (Phase</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-299.785,0)">
+                    <text x="2887.17px" y="355.942px" style="font-family:'Helvetica';font-size:88.855px;fill:rgb(20,0,196);">2</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-305.449,0)">
+                    <text x="2941.72px" y="355.942px" style="font-family:'Helvetica';font-size:88.855px;">)</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="444.797px" style="font-family:'Helvetica';font-size:88.855px;">• Email prompt shown after</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-259.019,0)">
+                    <text x="2494.56px" y="444.797px" style="font-family:'Helvetica';font-size:88.855px;fill:rgb(20,0,196);">20</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-270.347,0)">
+                    <text x="2603.65px" y="444.797px" style="font-family:'Helvetica';font-size:88.855px;">–</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-276.011,0)">
+                    <text x="2658.2px" y="444.797px" style="font-family:'Helvetica';font-size:88.855px;fill:rgb(20,0,196);">30</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-287.338,0)">
+                    <text x="2791.98px" y="444.797px" style="font-family:'Helvetica';font-size:88.855px;">seconds</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="533.652px" style="font-family:'Helvetica';font-size:88.855px;">This bypasses standard subscription gate</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <text x="1293.68px" y="622.507px" style="font-family:'Helvetica';font-size:88.855px;">(9b + prompt (12)</text>
+                </g>
+                <g transform="matrix(1.10383,0,0,1,-134.328,0)">
+                    <g transform="matrix(88.8552,0,0,88.8552,3010.52,711.363)">
+                    </g>
+                    <text x="1293.68px" y="711.363px" style="font-family:'Helvetica';font-size:88.855px;">Playback starts immediately<tspan x="2388.32px 2413.01px " y="711.363px 711.363px ">, </tspan>prompt follows</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-269.677,18.8331)">
+                <text x="1517.74px" y="216.166px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:50px;stroke:black;stroke-width:2.15px;stroke-linecap:butt;stroke-miterlimit:2;stroke-dasharray:2.15,2.15;">🔒</text>
+                <text x="1581.63px" y="216.166px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;stroke:black;stroke-width:2.15px;stroke-linecap:butt;stroke-miterlimit:2;stroke-dasharray:2.15,2.15;">TEMPORAR<tspan x="1865.88px 1898.33px 1912.22px " y="216.166px 216.166px 216.166px ">Y N</tspan>ARRA<tspan x="2089.05px 2119.6px " y="216.166px 216.166px ">TI</tspan>ON</text>
+                <g transform="matrix(50,0,0,50,1967.3,267.802)">
+                </g>
+                <text x="1758.93px" y="267.802px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;stroke:black;stroke-width:2.15px;stroke-linecap:butt;stroke-miterlimit:2;stroke-dasharray:2.15,2.15;">ACCESS</text>
+            </g>
+        </g>
+        <g transform="matrix(2.40589,0,0,1.59913,-98.1701,3814.09)">
+            <g transform="matrix(60.4753,0,0,60.4753,1433.9,136.681)">
+            </g>
+            <text x="106.755px" y="136.681px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:60.475px;">ACCESS GA<tspan x="461.811px 498.751px " y="136.681px 136.681px ">TI</tspan>NG <tspan x="620.824px 664.497px " y="136.681px 136.681px ">AN</tspan>D SUBSCRIPTION LOGIC</text>
+            <rect x="106.755" y="143.089" width="1327.15" height="6.349"/>
+        </g>
+        <g id="No" transform="matrix(0.743674,0,0,0.494298,1716.29,5621.15)">
+            <g transform="matrix(0.400759,0.0040404,-0.0100813,0.999949,1245.71,-454.311)">
+                <path d="M871.356,1398.98L871.356,1391.46L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L871.356,1398.98Z" style="stroke:black;stroke-width:1.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-490.494,-359.486)">
+                <g transform="matrix(28.619,0,0,28.619,2114.96,1293.82)">
+                </g>
+                <text x="2078.38px" y="1293.82px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.619px;">No</text>
+            </g>
+        </g>
+        <g transform="matrix(1.06465,0,0,0.707642,515.267,2133.89)">
+            <g transform="matrix(0.648035,0.260717,-0.260717,0.648035,2230.84,5633.02)">
+                <g transform="matrix(29.1667,0,0,29.1667,112.394,0)">
+                </g>
+                <g transform="matrix(29.1667,0,0,29.1667,120.498,0)">
+                </g>
+                <text x="0px" y="0px" style="font-family:'Helvetica';font-size:29.167px;fill:rgb(14,14,14);">Y<tspan x="16.777px 32.998px " y="0px 0px ">es</tspan> (veriﬁed via deep link journey / hotspot)</text>
+            </g>
+            <g transform="matrix(0.260473,0.102597,-0.255993,0.649915,2948.5,4839.45)">
+                <path d="M-1375.6,1400.12L-1375.6,1392.6L1186.05,1391.65L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16L1186.05,1399.18L-1375.6,1400.12Z" style="stroke:black;stroke-width:1.71px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.677545,0,0,0.503078,2078.26,3353.51)">
+            <text x="3328.56px" y="1890.93px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:33.333px;">Color <tspan x="3478.56px 3628.56px " y="1890.93px 1890.93px "> M</tspan>eaning</text>
+            <text x="3328.56px" y="1961.77px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">🔵</text>
+            <g transform="matrix(33.3333,0,0,33.3333,4250.1,1961.77)">
+            </g>
+            <g transform="matrix(33.3333,0,0,33.3333,4259.36,1961.77)">
+            </g>
+            <text x="3371.16px" y="1961.77px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Blue <tspan x="3478.56px 3628.56px " y="1961.77px 1961.77px "> P</tspan>hase 1 (MVP): Image access+ email veriﬁcation</text>
+            <text x="3328.56px" y="2032.6px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">🟢</text>
+            <text x="3371.16px" y="2032.6px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Green <tspan x="3478.56px 3628.56px " y="2032.6px 2032.6px "> P</tspan>hase 2: Subscriber Narration/overlay media access</text>
+            <text x="3328.56px" y="2103.43px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">🔵🟢</text>
+            <text x="3404.49px" y="2103.43px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Blue/Green <tspan x="3628.56px " y="2103.43px ">U</tspan>sed in both Phase 1 and Phase 2</text>
+            <text x="3328.56px" y="2174.26px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">🟣</text>
+            <g transform="matrix(33.3333,0,0,33.3333,3904.59,2174.27)">
+            </g>
+            <g transform="matrix(33.3333,0,0,33.3333,3913.85,2174.27)">
+            </g>
+            <text x="3371.16px" y="2174.26px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Purple <tspan x="3478.56px 3628.56px " y="2174.26px 2174.26px "> A</tspan>ccess Control Deﬁnitions (from schema)</text>
+            <text x="3328.56px" y="2245.1px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">⚫️</text>
+            <text x="3371.16px" y="2245.1px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Grey <tspan x="3478.56px 3628.56px " y="2245.1px 2245.1px "> S</tspan>pecial Logic (e.g. Magic Piece, Session)</text>
+            <text x="3328.56px" y="2315.93px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:33.333px;">⬛</text>
+            <text x="3371.16px" y="2315.93px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;">Dotted <tspan x="3478.56px 3628.56px " y="2315.93px 2315.93px "> S</tspan>tate Handling (persistent/session states)</text>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,-887.62,4563.4)">
+            <text x="1274.56px" y="1533.23px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:29.167px;fill:rgb(14,14,14);">🔵🟢</text>
+            <text x="1341px" y="1533.23px" style="font-family:'Helvetica';font-size:29.167px;fill:rgb(14,14,14);">=</text>
+            <text x="1366.13px" y="1533.23px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:29.167px;">Used in Both</text>
+            <text x="1274.56px" y="1573.9px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:29.167px;">Phases: email</text>
+            <text x="1274.56px" y="1614.56px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:29.167px;">gating (P1) +</text>
+            <g transform="matrix(29.1667,0,0,29.1667,1582.49,1655.22)">
+            </g>
+            <text x="1274.56px" y="1655.22px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:29.167px;">subscriber gating (P2)</text>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.48202,214.036,4409.31)">
+            <path d="M499.725,2372.24L499.725,2539.01C499.725,2585.02 471.792,2622.39 437.386,2622.39L169.618,2622.39C135.212,2622.39 107.279,2585.02 107.279,2539.01L107.279,2372.24C107.279,2326.22 135.212,2288.86 169.618,2288.86L437.386,2288.86C471.792,2288.86 499.725,2326.22 499.725,2372.24Z" style="fill:none;stroke:black;stroke-width:9.44px;"/>
+        </g>
+        <g transform="matrix(0.877389,0.274895,-0.413582,0.583175,1824.65,4342.52)">
+            <text x="1675.8px" y="2435.12px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">Override Sheet: “</text>
+            <text x="1834.43px" y="2435.12px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:20.833px;fill:rgb(14,14,14);">🔓</text>
+            <text x="1861.06px" y="2435.12px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">V<tspan x="1874.59px 1879.21px " y="2435.12px 2435.12px ">ia</tspan></text>
+            <g transform="matrix(20.8333,0,0,20.8333,1783.49,2463.24)">
+            </g>
+            <text x="1675.8px" y="2463.24px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">shared link”</text>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,-57.372,4873.07)">
+            <text x="3630.87px" y="2323.62px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">If override =</text>
+            <text x="3630.87px" y="2344.45px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">temporary</text>
+            <g transform="matrix(20.8333,0,0,20.8333,3695.71,2365.28)">
+            </g>
+            <text x="3630.87px" y="2365.28px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">access</text>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,411.21,4698.79)">
+            <text x="3630.87px" y="2323.62px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">Grants narration</text>
+            <text x="3630.87px" y="2351.74px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">for 1 min before</text>
+            <g transform="matrix(20.8333,0,0,20.8333,3695.71,2379.87)">
+            </g>
+            <text x="3630.87px" y="2379.87px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">prompt</text>
+        </g>
+        <g transform="matrix(0.900895,0.238957,-0.359512,0.598799,928.206,3304.72)">
+            <g transform="matrix(20.8333,0,0,20.8333,4496.98,2323.62)">
+            </g>
+            <text x="3693.37px" y="2323.62px" style="font-family:'Helvetica';font-size:20.833px;fill:rgb(14,14,14);">After temp preview<tspan x="3865.9px 3871.69px " y="2323.62px 2323.62px ">, </tspan>prompt for email to unlock rest. Other hotspots follow normal gating</text>
+        </g>
+        <g transform="matrix(0.538221,2.1771e-18,1.57984e-16,0.89261,4057.51,3844.46)">
+            <path d="M1186.05,1406.16L1186.05,1384.66L1248.27,1395.19L1186.05,1406.16Z" style="stroke:black;stroke-width:0.95px;"/>
+        </g>
+        <g transform="matrix(0.26295,-0.0932691,0.802915,1.00004,367.198,3840.84)">
+            <path d="M818.194,1398.84L818.194,1391.31C1100.78,1389.75 903.469,1393.22 1186.05,1391.65L1187.51,1384.4L1286.88,1396.53L1181.55,1407.18L1186.05,1399.18C1057.53,1398.79 933.078,1398.6 818.194,1398.84Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:0.79px;"/>
+        </g>
+        <g transform="matrix(0.26295,-0.0932691,0.802915,1.00004,367.198,4597.17)">
+            <path d="M818.194,1398.84L818.194,1391.31C1100.78,1389.75 903.469,1393.22 1186.05,1391.65L1187.51,1384.4L1286.88,1396.53L1181.55,1407.18L1186.05,1399.18C1057.53,1398.79 933.078,1398.6 818.194,1398.84Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:0.79px;"/>
+        </g>
+        <g transform="matrix(0.26295,-0.0932691,0.802915,1.00004,395.176,4968.67)">
+            <path d="M683.182,1398.71L683.182,1391.19C965.767,1389.62 903.469,1393.22 1186.05,1391.65L1187.51,1384.4L1286.88,1396.53L1181.55,1407.18L1186.05,1399.18C1057.53,1398.79 798.066,1398.47 683.182,1398.71Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:0.79px;"/>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,214.036,3996.41)">
+            <text x="4695.67px" y="1811.96px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Once</text>
+            <text x="4695.67px" y="1842.08px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">image</text>
+            <text x="4695.67px" y="1872.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">access is</text>
+            <text x="4695.67px" y="1902.32px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">granted the</text>
+            <text x="4695.67px" y="1932.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">user</text>
+            <text x="4695.67px" y="1962.56px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">moves to</text>
+            <text x="4695.67px" y="1992.68px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">hotspot</text>
+            <text x="4695.67px" y="2022.8px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">logic within</text>
+            <text x="4695.67px" y="2052.93px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">the</text>
+            <text x="4695.67px" y="2083.05px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">individual</text>
+            <g transform="matrix(29.1667,0,0,29.1667,4765.39,2113.17)">
+            </g>
+            <text x="4695.67px" y="2113.17px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">piece</text>
+        </g>
+        <g transform="matrix(0.25915,0.097855,-0.842393,0.985588,2672.47,4313.44)">
+            <path d="M818.194,1398.84L818.194,1391.31C1100.78,1389.75 903.469,1393.22 1186.05,1391.65L1187.51,1384.4L1286.88,1396.53L1181.55,1407.18L1186.05,1399.18C1057.53,1398.79 933.078,1398.6 818.194,1398.84Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:0.79px;"/>
+        </g>
+        <g transform="matrix(0.25915,0.097855,-0.842393,0.985588,2672.47,4686.45)">
+            <path d="M818.194,1398.84L818.194,1391.31C1100.78,1389.75 903.469,1393.22 1186.05,1391.65L1187.51,1384.4L1286.88,1396.53L1181.55,1407.18L1186.05,1399.18C1057.53,1398.79 933.078,1398.6 818.194,1398.84Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:0.79px;"/>
+        </g>
+        <g transform="matrix(0.186395,0.154584,-1.33075,0.70889,3465.56,4193.1)">
+            <path d="M539.563,1398.58L539.563,1391.06C822.148,1389.49 903.469,1393.22 1186.05,1391.65L1187.51,1384.4L1286.88,1396.53L1181.55,1407.18L1186.05,1399.18C1057.53,1398.79 654.447,1398.34 539.563,1398.58Z" style="fill:rgb(215,131,255);stroke:black;stroke-width:0.79px;"/>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,214.036,3996.41)">
+            <path d="M4609.87,1697.88L4667.98,1697.88L4667.98,3909.16L517.78,3909.16L517.78,2859.85L598.074,2859.85" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,-41.2719,3912.02)">
+            <g transform="matrix(58.3333,0,0,58.3333,314.417,448.766)">
+            </g>
+            <g transform="matrix(58.3333,0,0,58.3333,330.623,448.766)">
+            </g>
+            <text x="188.009px" y="448.766px" style="font-family:'Helvetica-Oblique', 'Helvetica';font-style:italic;font-size:58.333px;fill:rgb(14,14,14);">This ﬂow governs how access is determined at both piece and</text>
+            <text x="188.009px" y="527.516px" style="font-family:'Helvetica-Oblique', 'Helvetica';font-style:italic;font-size:58.333px;fill:rgb(14,14,14);">hotspot levels, based on how the user enters and what</text>
+            <text x="188.009px" y="606.266px" style="font-family:'Helvetica-Oblique', 'Helvetica';font-style:italic;font-size:58.333px;fill:rgb(14,14,14);">content types are gated. It includes session state handling,</text>
+            <g transform="matrix(58.3333,0,0,58.3333,437.606,685.016)">
+            </g>
+            <g transform="matrix(58.3333,0,0,58.3333,453.813,685.016)">
+            </g>
+            <text x="188.009px" y="685.016px" style="font-family:'Helvetica-Oblique', 'Helvetica';font-style:italic;font-size:58.333px;fill:rgb(14,14,14);">email veriﬁcation, subscription prompts, and deep-link</text>
+            <g transform="matrix(58.3333,0,0,58.3333,444.128,763.766)">
+            </g>
+            <text x="188.009px" y="763.766px" style="font-family:'Helvetica-Oblique', 'Helvetica';font-style:italic;font-size:58.333px;fill:rgb(14,14,14);">overrides.</text>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,-84.4124,3927.25)">
+            <g transform="matrix(83.3333,0,0,83.3333,1776.9,311.875)">
+            </g>
+            <text x="233.196px" y="311.875px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:83.333px;">(for Diary of Deji Interactive <tspan x="1341.51px 1401.69px " y="311.875px 311.875px ">Ar</tspan>t Pieces)</text>
+            <rect x="233.196" y="320.705" width="1543.7" height="8.748"/>
+        </g>
+        <g transform="matrix(0.96998,0,0,0.644717,357.612,3885.87)">
+            <text x="3127.73px" y="165.442px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:54.167px;">V<tspan x="3160.9px 3191.02px " y="165.442px 165.442px ">er</tspan>sion:</text>
+            <text x="3356.54px" y="165.442px" style="font-family:'Helvetica';font-size:54.167px;">v1</text>
+            <text x="3413.75px" y="165.442px" style="font-family:'Helvetica';font-size:54.167px;fill:rgb(20,0,196);">.0</text>
+            <text x="3127.73px" y="219.609px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:54.167px;">Created by</text>
+            <text x="3407.69px" y="219.609px" style="font-family:'Helvetica';font-size:54.167px;">: Deji</text>
+            <text x="3546.15px" y="219.609px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:54.167px;">✍</text>
+            <text x="3593.81px" y="219.609px" style="font-family:'Helvetica';font-size:54.167px;">with GPT<tspan x="3815.58px 3827.67px 3863.8px " y="219.609px 219.609px 219.609px "> As</tspan>sist</text>
+            <text x="3987.18px" y="219.609px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:54.167px;">🧞</text>
+            <text x="4041.35px" y="219.609px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:54.167px;">♂</text>
+            <text x="3127.73px" y="273.776px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:54.167px;">Last Updated:</text>
+            <text x="3503.91px" y="273.776px" style="font-family:'Helvetica';font-size:54.167px;fill:rgb(20,0,196);">2025</text>
+            <text x="3624.41px" y="273.776px" style="font-family:'Helvetica';font-size:54.167px;">-</text>
+            <text x="3642.45px" y="273.776px" style="font-family:'Helvetica';font-size:54.167px;fill:rgb(20,0,196);">07</text>
+            <text x="3702.7px" y="273.776px" style="font-family:'Helvetica';font-size:54.167px;">-</text>
+            <text x="3720.74px" y="273.776px" style="font-family:'Helvetica';font-size:54.167px;fill:rgb(20,0,196);">18</text>
+            <text x="3127.73px" y="327.942px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:54.167px;">Purpose:</text>
+            <g transform="matrix(54.1667,0,0,54.1667,3448.9,327.942)">
+            </g>
+            <g transform="matrix(54.1667,0,0,54.1667,3463.95,327.942)">
+            </g>
+            <text x="3379.66px" y="327.942px" style="font-family:'Helvetica';font-size:54.167px;"><tspan x="3379.66px " y="327.942px ">D</tspan>eﬁnes <tspan x="3580.49px " y="327.942px ">a</tspan>ccess <tspan x="3766.24px " y="327.942px ">c</tspan>ontrol <tspan x="3945.99px " y="327.942px ">l</tspan>ogic <tspan x="4074.56px " y="327.942px ">a</tspan>cross <tspan x="4251.27px " y="327.942px ">g</tspan>allery<tspan x="4406.84px 4421.89px 4439.06px " y="327.942px 327.942px 327.942px ">, d</tspan>eep <tspan x="4576.73px " y="327.942px ">l</tspan>ink, <tspan x="4690.23px " y="327.942px ">a</tspan>nd <tspan x="4797.77px " y="327.942px ">j</tspan>ourney</text>
+            <text x="3127.73px" y="382.109px" style="font-family:'Helvetica';font-size:54.167px;">paths <tspan x="3283.44px 3301.48px 3324.68px " y="382.109px 382.109px 382.109px ">- f</tspan>or <tspan x="3411.09px " y="382.109px ">c</tspan>onsistent <tspan x="3678.18px " y="382.109px ">e</tspan>mail/subscription <tspan x="4134.9px " y="382.109px ">g</tspan>ating <tspan x="4305.68px " y="382.109px ">a</tspan>cross <tspan x="4488.42px " y="382.109px ">f</tspan>rontend <tspan x="4710.38px " y="382.109px ">b</tspan>ehaviour<tspan x="4945.33px 4960.38px " y="382.109px 382.109px ">.,</tspan></text>
+            <text x="3127.73px" y="436.276px" style="font-family:'Helvetica';font-size:54.167px;">(including session state, and content-type-level-access).</text>
+            <g transform="matrix(54.1667,0,0,54.1667,3612.6,490.442)">
+            </g>
+            <g transform="matrix(54.1667,0,0,54.1667,3627.65,490.442)">
+            </g>
+            <text x="3127.73px" y="490.442px" style="font-family:'Helvetica';font-size:54.167px;">Includes: <tspan x="3370.21px " y="490.442px ">e</tspan>mail <tspan x="3525.33px " y="490.442px ">v</tspan>eriﬁcation, <tspan x="3824.96px " y="490.442px ">s</tspan>ubscription <tspan x="4139.66px " y="490.442px ">p</tspan>rompts, <tspan x="4376.06px " y="490.442px ">d</tspan>eep-link <tspan x="4621.55px " y="490.442px ">o</tspan>verrides, <tspan x="4885.05px " y="490.442px ">a</tspan>nd</text>
+            <g transform="matrix(54.1667,0,0,54.1667,4479.68,544.609)">
+            </g>
+            <text x="3127.73px" y="544.609px" style="font-family:'Helvetica';font-size:54.167px;">content access tiering for narration, overlays, and <tspan x="4323.07px 4359.2px " y="544.609px 544.609px ">Ab</tspan>out.</text>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear7" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79465e-14,225.004,-293.088,1.37775e-14,1779.52,138.767)"><stop offset="0" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.46" style="stop-color:rgb(0,181,255);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(130,230,85);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(130,230,85);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
