@@ -55,9 +55,11 @@ _This homepage should feel like stepping into a myth—a digital doorway from co
 
 We encourage your creative interpretation, but you may find it helpful to reference the documented story structure:
 
-**For full context, start with:** `[[prologue-backstory-3min-read]]` - Project origins and foundational context  
-**Then read:** `[[narrative-exhibition-acts-13m-read]]` - The three-act transformation journey (Discovery → Devotion → Transformation)  
-**For quick overview:** `[[narrative-highlights-5min-read]]` - Key themes and beats from both prologue and acts
+**For full context, start with:** [a-prologue-backstory-3min-read](../1-narrative/a-prologue-backstory-3min-read.md) – Project origins and foundational context  
+
+**Then read:** [narrative-exhibition-acts-13m-read](../1-narrative/narrative-exhibition-acts-13m-read.md) – The three-act transformation journey (Discovery → Devotion → Transformation)  
+
+**For quick overview:** [narrative-highlights-5min-read](../1-narrative/narrative-highlights-5min-read.md) – Key themes and beats from both prologue and acts  
 
 Consider how this documented progression might translate to scroll-based storytelling, but feel free to propose your own narrative structure.
 

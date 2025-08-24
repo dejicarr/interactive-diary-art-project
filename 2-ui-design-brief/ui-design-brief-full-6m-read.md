@@ -121,7 +121,7 @@ _For detailed audio player specifications, interaction states, and overlay behav
 
 **Current Launch Reality:** One free piece (Magic Piece), all others email-gated. Future supporter tier functionality planned.
 
-_Complete user flow for access level transitions is mapped in Access Gating Flow Chart v2.pdf (see project assets)._ *linked here - [Access Gating Flow](4-diagrams/access-gating-flow-diagram.md)
+_Complete user flow for access level transitions is mapped in Access Gating Flow Chart v2.pdf (see project assets)._ *linked here - [Access Gating Flow](../4-diagrams/access-gating-flow-diagram.md)
 
 **Design Opportunity:** Develop elegant ways to communicate access prompts that feel like stepping behind the curtain, not hitting a paywall. Communicate value for the user's attention rather than imposing aggressive gates.
 
@@ -154,7 +154,7 @@ _Complete user flow for access level transitions is mapped in Access Gating Flow
 - **Individual artwork pages** (the core interactive experience detailed elsewhere in this brief)
 - **Supporting pages:** About, Tutorials, Music, Shop (future)
 
-*Complete site architecture and page relationships are detailed in Site Map.pdf (see project assets). linked here - - [Site Map](4-diagrams/site-map.md)
+*Complete site architecture and page relationships are detailed in Site Map.pdf (see project assets). linked here - [Site Map](../4-diagrams/site-map.md)
 
 **Navigation Patterns:**
 
@@ -256,9 +256,9 @@ The backend supports sophisticated content management including:
 - **Multi-modal content** (narration, images, external links)
 - **Flexible access controls** (free, email-gated, supporter tiers)
 
-_Detailed hotspot data structure and field specifications are documented in Hotspot Schema.pdf (see project assets)._ - *[Hotspot Schema](4-diagrams/hotspot-schema.md)*
+_Detailed hotspot data structure and field specifications are documented in Hotspot Schema.pdf (see project assets)._ - [Hotspot Schema](../4-diagrams/hotspot-schema.md)
 
-_Hotspot distribution across different artwork sizes and complexity levels is detailed in Quantity of Hotspot Calculations.xlsx (see project assets). [Hotspot Calculations Spreadsheet](4-diagrams/quantity-of-hotspot-calculations.xlsx)
+_Hotspot distribution across different artwork sizes and complexity levels is detailed in Quantity of Hotspot Calculations.xlsx (see project assets). [Hotspot Calculations Spreadsheet](../4-diagrams/quantity-of-hotspot-calculations.xlsx)
 
 
 ### **Time Data Integration**
