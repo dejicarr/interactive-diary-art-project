@@ -3,6 +3,7 @@
 ## The High Life & The Core Wound
 
 On the surface, my life looked enviable. I threw incredible events, I was a successful musician, and when some of my friends became famous, it catapulted me into exclusive circles -nights out with household names, insane parties around the globe, high-end adventures, and annual trips to Burning Man. Somehow I was moving through these rarefied worlds with access that  opened many doors.
+
 ![](source-images/dinner-dinner-black-man.jpeg)
 But underneath, I carried an old wound. At four years old, on my first day of school, I was surrounded by children chanting "Blackjack golliwog, blackjack golliwog." Half-African, half-English, raised in a white family - that was the moment I learned I was different, and that difference meant I didn't belong. That wound followed me everywhere, even into spaces where I was welcomed and celebrated.
 
@@ -24,7 +25,9 @@ One day, I realized it would be far more effective to draw a picture for each ce
 This coincided with deep meditation on Orion symbols (i was in a deeply hippy moment of life). Synchronistically, I discovered Anthony West's documentary on ancient Egypt. He described how mystery school initiates would drink psychoactive tea and scan hieroglyphic teachings - symbols that could represent multiple concepts simultaneously, allowing the brain to process vast amounts of information and create synergy between ideas. Both hemispheres engaged, unlike with linear text.
 
 It was a revolutionary moment. It felt like i was rediscovering an ancient technology for recording and processing consciousness.
+
 ![](source-images/first-ceremony-note.jpeg)
+
 _[This is the first eureka image - my first ceremony notes in picture form]_
 
 ## Burning Man Breaking Point (2016)
@@ -32,7 +35,9 @@ _[This is the first eureka image - my first ceremony notes in picture form]_
 By 2016, the exclusive circles that once felt exciting had become suffocating. While I treasured my genuine friendships with people who'd been famous since before their success, certain contexts - particularly in LA - brought out hierarchies that triggered my old wound. New crowds, fame seekers, imagined pecking orders that made me question my place and worth.
 
 In August 2016, Burning Man cracked something open. Amid the desert dust and temple fires, I felt a surge of possibility: a sense that I could break away from this comparison trap and rebuild life on new terms. That feeling stayed with me and led to my decision to break away and go travelling. I resigned from my events business and started planning a 2-year adventure to write a book and follow this intuition.
+
 ![](source-images/burning-man-magic-photo.jpeg)
+
 _[Visual: Burning Man moment - that's me standing on the i of Magic!]_
 
 ## Colombia Adventures & Travel Integration (2017)
@@ -47,6 +52,7 @@ The travel story proved more satisfying than the ceremony content itself. From t
 ![](source-images/colombia-ceremony-note.jpeg)
 
 _[this is one of my Columbia travels ceremony notes ]_
+
 
 ## The Financial Collapse
 

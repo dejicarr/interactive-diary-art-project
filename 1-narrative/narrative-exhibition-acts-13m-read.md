@@ -11,9 +11,11 @@ On September 13, 2017, I picked up a pen and created the first page. At first, i
 There was an alchemy in this process. The content I was documenting - struggles with digital addiction, a book that felt impossible, the gap between dreams and reality - somehow became beautiful when translated into visual form. My mind began to frame experience differently. Looking back through pages, I could see that life wasn't nearly as awful as I was painting it in my head and emotions. The diary was transforming pain into pathway.
 
 
+
 ![](source-images/2017-10-05.jpg)
 
 _[This is an example of an early diary page:  the bottom left section features an image of me on a desert island in a jail cell with clouds above. Directly above one of the clouds is a stop symbol, an image of a TV, and an image of a bed for late nights. This is what's blocking the connection upwards which has an arrow with a key inside pointing towards the Sun which has images inside of the traffic symbol for work with a plus symbol next to a circle of little circles which represents community connection and coming together and the 💸]
+
 
 ## The Black Pen Discovery
 
@@ -25,7 +27,9 @@ Initially, I colored everything in, but coloring took enormous amounts of time. 
 
 The simplicity of black and white brought clarity to the visual complexity of the work. It made the work more legible, more powerful. With just these pens, I had everything I needed - and my individual style was born.
 
+
 ![](source-images/2018-02-16.png)
+
 
 
 ## Visual Prayer Innovation
@@ -38,7 +42,9 @@ And it worked! (For a while 😉)
 
 I realized each page could hold an intention, transforming drawing into a form of prayer. It wasn't "art" yet. It was **functional ritual**.
 
+
 ![](source-images/2018-04-27.jpg)
+
 
 ## External Validation
 
@@ -52,7 +58,9 @@ It was the first time anyone had acknowledged me as an artist in this way. Peopl
 
 It was the first moment I realized that what I was doing might have a unique artistic identity, not just personal value.
 
+
 ![](source-images/2018-03-16.jpg)
+
 
 
 ## The System Emerges
@@ -68,7 +76,9 @@ For instance In the above two pieces I began to also use the pieces for task man
 Without realizing it, I was beginning to discover something far more powerful than I had ever set out to find.
 
 
+
 ![](source-images/2018-10-01.jpg)
+
 
 
 ## The Cosmic Contract
@@ -83,7 +93,10 @@ From this point, the style of my diary becomes cohesive, with a distinctive chan
 
 These star beings would later appear on Orion's Belt in almost all of the large-scale exhibition pieces, watching over the artistic evolution like cosmic witnesses confirming I was honoring the original agreement.
 
+
 ![](source-images/2018-8-22.jpg)
+
+
 ## The Diary's First Birthday
 
 By September 2018, exactly one year after starting the diary, something remarkable happened. I was facilitating a UNICEF conference in Geneva - long hours, early starts, late finishes. One morning I realized it was the anniversary of having started my diary and reflected on how much it had helped me recover from my depression.
@@ -156,6 +169,7 @@ What followed was a wild series of mythic dream adventures, all of which are dra
 Without thinking, I replied: "I love you, you cunt." 😆
 
 In that moment, two aspects of myself - light and shadow - came back together. The split I'd been living with since the depression began to dissolve. I felt, for the first time in months, like my old flowing self was returning.
+
 
 ![](source-images/2019-02-23.jpeg)
 

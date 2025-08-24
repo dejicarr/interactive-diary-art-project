@@ -14,6 +14,7 @@ On the surface, my life looked enviable. I threw incredible events, I was a succ
 But underneath, I carried an old wound. At four years old, on my first day of school, I was surrounded by children chanting "Blackjack golliwog, blackjack golliwog." Half-African, half-English, raised in a white family - that was the moment I learned I was different, and that difference meant I didn't belong. I thought I'd left these wounds behind, but little did I know they were about to send me into the deepest abyss yet.
 
 ![](source-images/lightning-strikes.jpeg)
+
 *Prescient from my avocado treehouse*
 
 The crash came during my planned 2-year adventure. Four months into travels in Guatemala, staying in an avocado treehouse (I know! 🤪), financial disaster struck. Legal complications forced me to return to the UK immediately and buy out my entire mortgage, wiping out my funds. Suddenly, I couldn't continue the adventures that had become my identity. At 40, watching younger, wealthier friends surge ahead while I faced isolation and ruin, I crashed hard. Six months of digital numbness followed - endless TV, YouTube binges, crippling social anxiety around the circles where I used to move freely.
@@ -31,6 +32,7 @@ This coincided with discovering Anthony West's documentary on ancient Egypt, des
 Over two years, my ceremony notes evolved into sophisticated visual languages, systematically refined through practice.
 
 ![](source-images/first-ceremony-note.jpeg)
+
 ![](source-images/colombia-ceremony-note.jpeg)
 ## The Eureka Moment
 
@@ -138,6 +140,7 @@ At Notting Hill Carnival, swept into a serendipitous adventure, I found myself s
 I was completely gobsmacked. I'd never thought of it as "art" in the formal sense. But in that moment, everything clicked. All those hours, all that intensity - suddenly it wasn't madness, it was devotion.
 
 I realized, with almost comic clarity: **I am an artist.**
+
 ![](source-images/magic-piece.png)
 
 
