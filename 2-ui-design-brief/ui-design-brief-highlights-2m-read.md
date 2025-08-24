@@ -75,7 +75,7 @@ An **"audiobook meets art gallery"** experience launching Q1 2026 with gallery e
 - Support for patchy gallery WiFi
 
 
-*Detailed interaction patterns and user flows are covered in the companion [Interaction Reference Guide](interaction-reference-guide-3m-read.md).*
+*Detailed interaction patterns and user flows are covered in the companion [Interaction Reference Guide](x-interaction-reference-guide-3m-read.md).*
 
 
 ---

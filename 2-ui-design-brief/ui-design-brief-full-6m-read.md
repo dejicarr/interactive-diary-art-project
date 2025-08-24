@@ -274,7 +274,7 @@ This creates opportunities for dynamic data presentations, though static image r
 
 ### **Detailed Interaction Specifications**
 
-For comprehensive interaction patterns, user flows, and behavioral specifications, see the companion **[Interaction Reference Guide](../2-ui-design-brief/interaction-reference-guide-3m-read.md)** which provides designer-focused guidance on hotspot behaviors, audio player states, overlay patterns, and cross-device interaction flows.
+For comprehensive interaction patterns, user flows, and behavioral specifications, see the companion **[Interaction Reference Guide](x-interaction-reference-guide-3m-read.md)** which provides designer-focused guidance on hotspot behaviors, audio player states, overlay patterns, and cross-device interaction flows.
 
 ---
 

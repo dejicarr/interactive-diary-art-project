@@ -38,7 +38,7 @@ How to present highly detailed, black-and-white hand-drawn diary artworks with i
     
 2. [Design Brief Highlights – 2m read](2-ui-design-brief/ui-design-brief-highlights-2m-read.md)– Essential requirements **OR** [Full Spec Design Brief – 6m read](2-ui-design-brief/ui-design-brief-full-6m-read.md) – Complete UI/UX specification
     
-3. [Interaction Reference Guide – 3m read](2-ui-design-brief/interaction-reference-guide-3m-read.md) – Detailed interaction flows
+3. [Interaction Reference Guide – 3m read](x-interaction-reference-guide-3m-read.md) – Detailed interaction flows
     
 4. [Supporting schemas and specs](4-diagrams/)– Hotspot schema, access gating, site map, feature specs
     
