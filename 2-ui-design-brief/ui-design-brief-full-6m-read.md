@@ -110,7 +110,7 @@ Users can scroll/pan across the image while a hotspot is highlighted and playing
 - Minimize/expand functionality
 - Current hotspot/date display
 
-_For detailed audio player specifications, interaction states, and overlay behaviors, see ui-features in the project assets._ *linked here* - *[UI Features](4-diagrams/ui-features.md)*
+_For detailed audio player specifications, interaction states, and overlay behaviors, see ui-features in the project assets._ *linked here* - *[UI Features](../4-diagrams/ui-features.md)*
 
 
 **Design Opportunity:** Design an interface that complements the artwork. Consider premium audiobook aesthetics, glassmorphism effects (though contrast with black/white artwork may be challenging), or organic solutions alongside technical ones.
@@ -270,7 +270,7 @@ The project includes detailed time data available in multiple formats:
 
 This creates opportunities for dynamic data presentations, though static image reveals remain the baseline approach.
 
-👉 If you’d like to explore this further, see the [Time Data Invitation](../6-sample-time-data-invitation/0-README.md)
+👉 If you’d like to explore this further, see the [Time Data Invitation](../6-time-data-invitation/0-README.md)
 
 ### **Detailed Interaction Specifications**
 

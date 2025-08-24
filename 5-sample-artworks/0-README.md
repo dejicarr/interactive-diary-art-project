@@ -37,5 +37,5 @@ For further context:
 - The [**`1-narrative/source-images/`**](../1-narrative/source-images/) folder contains many supporting artwork images used in the narrative documents.  
   These are not full-resolution, but they’re useful for breadth and story context.  
 
-👉 Start here in [**5-sample-artworks/**](5-sample-artworks/) for hi‑res detail.
+👉 Start here in [**5-sample-artworks/**](./) for hi-res detail.
 👉 Explore [**`1-narrative/source-images/`**](../1-narrative/source-images/) for additional supporting context.  
